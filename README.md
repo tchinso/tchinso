@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-03-22 13:15 UTC**
+> Last refreshed automatically: **2026-03-22 18:57 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,9 +8,9 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 5개입니다.
 
-1. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
-2. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
-3. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-22**
+1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-22**
+2. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
+3. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
 4. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
 5. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
 
