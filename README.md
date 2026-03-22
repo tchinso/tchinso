@@ -1,66 +1,65 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed: **2026-03-22 (UTC)**
+> Last refreshed automatically: **2026-03-22 08:41 UTC**
 >
-> 목표는 간단합니다. **내가 최근에 손댄 저장소**, **내 저장소에서 많이 보이는 언어**, **많이 쓰인 확장자**를 한눈에 보는 프로필 README입니다.
+> 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
 ## Recent repositories
 
-최근 공개 저장소 페이지의 `Updated` 기준으로 가장 위에 보이는 5개 저장소입니다.
+최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 5개입니다.
 
 1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-22**
-2. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
-3. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
-4. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-20**
-5. [2026NovPlan](https://github.com/tchinso/2026NovPlan) — Updated **2026-03-19**
+2. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
+3. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
+4. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
+5. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-20**
 
 ## Language ratio across my repositories
 
-> 기준: 공개 저장소 목록에서 확인 가능한 **대표 언어(primary language)** 를 저장소 수 기준으로 집계.
-> 
-> `tchinso`, `2026NovPlan`처럼 GitHub가 대표 언어를 표시하지 않은 저장소는 아래 비율 계산에서 제외했습니다.
+> 기준: 내 공개 저장소 전체의 GitHub `languages` API 값을 합산한 **바이트 수 기준** 집계입니다.
 
-| Language | Repos | Ratio |
+| Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 6 | 40.0% |
-| HTML | 5 | 33.3% |
-| Python | 2 | 13.3% |
-| Vue | 1 | 6.7% |
-| TypeScript | 1 | 6.7% |
+| HTML | 950,777 | 83.5% |
+| JavaScript | 129,255 | 11.3% |
+| Python | 44,161 | 3.9% |
+| CSS | 12,460 | 1.1% |
+| PowerShell | 2,133 | 0.2% |
 
 ```mermaid
 pie showData
-    title Primary language ratio by repository count
-    "JavaScript" : 6
-    "HTML" : 5
-    "Python" : 2
-    "Vue" : 1
-    "TypeScript" : 1
+    title Language ratio by bytes across public repositories
+    "HTML" : 950777
+    "JavaScript" : 129255
+    "Python" : 44161
+    "CSS" : 12460
+    "PowerShell" : 2133
 ```
 
 ## Extension ranking
 
-> 기준: 위 언어 집계를 확장자 관점으로 정리한 **프로필용 요약 랭킹**.
-> 
-> 즉, 저장소의 대표 언어를 대표 확장자로 대응해 빠르게 보는 용도입니다.
+> 기준: 내 공개 저장소의 기본 브랜치를 재귀적으로 스캔해 파일 확장자 개수를 집계했습니다.
 
-| Rank | Extension | Based on | Count |
-| --- | --- | --- | ---: |
-| 1 | `.js` | JavaScript repos | 6 |
-| 2 | `.html` | HTML repos | 5 |
-| 3 | `.py` | Python repos | 2 |
-| 4 | `.vue` | Vue repos | 1 |
-| 5 | `.ts` | TypeScript repos | 1 |
+| Rank | Extension | Files |
+| --- | --- | ---: |
+| 1 | `.svg` | 54 |
+| 2 | `.png` | 52 |
+| 3 | `.html` | 25 |
+| 4 | `.js` | 21 |
+| 5 | `.md` | 13 |
+| 6 | `.css` | 5 |
+| 7 | `.py` | 4 |
+| 8 | `.onnx` | 3 |
+| 9 | `.json` | 3 |
+| 10 | `.pyc` | 2 |
 
 ## Live cards
-
-실시간 카드가 필요하면 아래 이미지를 그대로 유지해서 프로필에 붙여둘 수 있습니다.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tchinso&show_icons=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchinso&layout=compact&theme=transparent)
 
 ## Notes
 
-- 최근 저장소 목록은 GitHub 공개 저장소 페이지의 최신 `Updated` 순서를 따랐습니다.
-- 언어 비율은 **코드 바이트 수 기준이 아니라 저장소 대표 언어 기준** 입니다.
-- 확장자 랭킹은 프로필 README에서 보기 좋게 정리한 **요약용 추정치** 입니다.
+- 프로필 README 단독 Markdown만으로는 GitHub 내부 데이터를 실시간 계산할 수 없어서, **GitHub Actions가 주기적으로 README를 재생성**하도록 구성했습니다.
+- 최근 저장소는 `pushed_at`, 언어 비율은 `languages` API, 확장자 랭킹은 기본 브랜치의 Git tree 재귀 조회 결과를 사용합니다.
+- 이 저장소가 `tchinso/tchinso` 프로필 저장소라면, Actions가 실행될 때마다 프로필 화면도 함께 최신 상태로 유지됩니다.
