@@ -13,9 +13,9 @@ from typing import Iterable
 OWNER = os.getenv('PROFILE_OWNER', 'tchinso')
 REPO = os.getenv('PROFILE_REPO', OWNER)
 README_PATH = Path('README.md')
-TOP_REPOS = 5
+TOP_REPOS = 10
 TOP_LANGUAGES = 5
-TOP_EXTENSIONS = 10
+TOP_EXTENSIONS = 20
 API_ROOT = 'https://api.github.com'
 
 
