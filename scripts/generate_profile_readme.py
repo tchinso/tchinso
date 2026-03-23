@@ -146,7 +146,7 @@ def generate() -> str:
 
 ## Recent repositories
 
-최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 5개입니다.
+최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
 
 {chr(10).join(recent_lines)}
 
