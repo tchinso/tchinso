@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-03-22 18:57 UTC**
+> Last refreshed automatically: **2026-03-23 01:08 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,11 +8,16 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 5개입니다.
 
-1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-22**
+1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-23**
 2. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
 3. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
 4. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
 5. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
+6. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-20**
+7. [synthesisgame](https://github.com/tchinso/synthesisgame) — Updated **2026-03-19**
+8. [solotro](https://github.com/tchinso/solotro) — Updated **2026-02-21**
+9. [RaisingGirl](https://github.com/tchinso/RaisingGirl) — Updated **2026-01-14**
+10. [SecretLink](https://github.com/tchinso/SecretLink) — Updated **2025-11-01**
 
 ## Language ratio across my repositories
 
@@ -22,7 +27,7 @@
 | --- | ---: | ---: |
 | HTML | 951,970 | 83.4% |
 | JavaScript | 129,255 | 11.3% |
-| Python | 45,467 | 4.0% |
+| Python | 45,468 | 4.0% |
 | CSS | 12,460 | 1.1% |
 | PowerShell | 2,133 | 0.2% |
 
@@ -31,7 +36,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 951970
     "JavaScript" : 129255
-    "Python" : 45467
+    "Python" : 45468
     "CSS" : 12460
     "PowerShell" : 2133
 ```
@@ -52,6 +57,14 @@ pie showData
 | 8 | `.onnx` | 3 |
 | 9 | `.json` | 3 |
 | 10 | `.pyc` | 2 |
+| 11 | `.bat` | 2 |
+| 12 | `.yml` | 1 |
+| 13 | `.gitignore` | 1 |
+| 14 | `.gitkeep` | 1 |
+| 15 | `.cfg` | 1 |
+| 16 | `.spec` | 1 |
+| 17 | `.ps1` | 1 |
+| 18 | `.txt` | 1 |
 
 ## Live cards
 
