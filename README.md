@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-03-25 04:03 UTC**
+> Last refreshed automatically: **2026-03-25 09:17 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,8 +8,8 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
 
-1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-25**
-2. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-03-24**
+1. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-03-25**
+2. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-25**
 3. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
 4. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
 5. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
@@ -25,20 +25,20 @@
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 945,300 | 81.1% |
-| JavaScript | 130,059 | 11.2% |
-| Python | 71,105 | 6.1% |
-| CSS | 16,432 | 1.4% |
-| PowerShell | 2,556 | 0.2% |
+| HTML | 947,539 | 79.5% |
+| JavaScript | 134,183 | 11.3% |
+| Python | 88,835 | 7.5% |
+| CSS | 18,666 | 1.6% |
+| PowerShell | 2,762 | 0.2% |
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 945300
-    "JavaScript" : 130059
-    "Python" : 71105
-    "CSS" : 16432
-    "PowerShell" : 2556
+    "HTML" : 947539
+    "JavaScript" : 134183
+    "Python" : 88835
+    "CSS" : 18666
+    "PowerShell" : 2762
 ```
 
 ## Extension ranking
@@ -50,22 +50,23 @@ pie showData
 | 1 | `.svg` | 54 |
 | 2 | `.png` | 52 |
 | 3 | `.html` | 31 |
-| 4 | `.js` | 22 |
-| 5 | `.md` | 14 |
-| 6 | `.css` | 6 |
-| 7 | `.py` | 5 |
-| 8 | `.json` | 4 |
-| 9 | `.pyc` | 3 |
+| 4 | `.js` | 23 |
+| 5 | `.md` | 17 |
+| 6 | `.json` | 7 |
+| 7 | `.py` | 6 |
+| 8 | `.css` | 6 |
+| 9 | `.pyc` | 4 |
 | 10 | `.onnx` | 3 |
 | 11 | `.spec` | 2 |
 | 12 | `.ps1` | 2 |
 | 13 | `.txt` | 2 |
-| 14 | `.bat` | 2 |
-| 15 | `.yml` | 1 |
-| 16 | `.gitignore` | 1 |
-| 17 | `.gitkeep` | 1 |
-| 18 | `.db` | 1 |
-| 19 | `.cfg` | 1 |
+| 14 | `.db` | 2 |
+| 15 | `.bat` | 2 |
+| 16 | `.webp` | 1 |
+| 17 | `.yml` | 1 |
+| 18 | `.gitignore` | 1 |
+| 19 | `.gitkeep` | 1 |
+| 20 | `.cfg` | 1 |
 
 ## Live cards
 
