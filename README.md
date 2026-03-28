@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-03-27 03:29 UTC**
+> Last refreshed automatically: **2026-03-28 03:15 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,13 +8,13 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
 
-1. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-03-27**
-2. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-26**
-3. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
-4. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
-5. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
-6. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
-7. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-20**
+1. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-28**
+2. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-03-27**
+3. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-03-27**
+4. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
+5. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
+6. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
+7. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-03-21**
 8. [synthesisgame](https://github.com/tchinso/synthesisgame) — Updated **2026-03-19**
 9. [solotro](https://github.com/tchinso/solotro) — Updated **2026-02-21**
 10. [RaisingGirl](https://github.com/tchinso/RaisingGirl) — Updated **2026-01-14**
@@ -25,9 +25,9 @@
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 947,539 | 78.3% |
-| JavaScript | 134,930 | 11.1% |
-| Python | 105,980 | 8.8% |
+| HTML | 947,539 | 78.0% |
+| JavaScript | 139,134 | 11.5% |
+| Python | 105,980 | 8.7% |
 | CSS | 18,666 | 1.5% |
 | PowerShell | 3,236 | 0.3% |
 
@@ -35,7 +35,7 @@
 pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 947539
-    "JavaScript" : 134930
+    "JavaScript" : 139134
     "Python" : 105980
     "CSS" : 18666
     "PowerShell" : 3236
@@ -50,22 +50,22 @@ pie showData
 | 1 | `.svg` | 54 |
 | 2 | `.png` | 52 |
 | 3 | `.html` | 31 |
-| 4 | `.js` | 23 |
+| 4 | `.js` | 24 |
 | 5 | `.md` | 17 |
 | 6 | `.py` | 7 |
 | 7 | `.json` | 7 |
 | 8 | `.css` | 6 |
 | 9 | `.pyc` | 5 |
 | 10 | `.onnx` | 3 |
-| 11 | `.spec` | 2 |
-| 12 | `.ps1` | 2 |
-| 13 | `.txt` | 2 |
+| 11 | `.txt` | 2 |
+| 12 | `.spec` | 2 |
+| 13 | `.ps1` | 2 |
 | 14 | `.db` | 2 |
 | 15 | `.bat` | 2 |
-| 16 | `.webp` | 1 |
-| 17 | `.yml` | 1 |
-| 18 | `.gitignore` | 1 |
-| 19 | `.gitkeep` | 1 |
+| 16 | `.yml` | 1 |
+| 17 | `.gitignore` | 1 |
+| 18 | `.gitkeep` | 1 |
+| 19 | `.webp` | 1 |
 | 20 | `.cfg` | 1 |
 
 ## Live cards
