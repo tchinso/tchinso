@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-01 10:01 UTC**
+> Last refreshed automatically: **2026-04-02 03:25 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,8 +8,8 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
 
-1. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-04-01**
-2. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-04-01**
+1. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-04-01**
+2. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-04-01**
 3. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-28**
 4. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
 5. [fav](https://github.com/tchinso/fav) — Updated **2026-03-22**
@@ -62,10 +62,10 @@ pie showData
 | 13 | `.txt` | 2 |
 | 14 | `.db` | 2 |
 | 15 | `.bat` | 2 |
-| 16 | `.webp` | 1 |
-| 17 | `.yml` | 1 |
-| 18 | `.gitignore` | 1 |
-| 19 | `.gitkeep` | 1 |
+| 16 | `.yml` | 1 |
+| 17 | `.gitignore` | 1 |
+| 18 | `.gitkeep` | 1 |
+| 19 | `.webp` | 1 |
 | 20 | `.cfg` | 1 |
 
 ## Live cards
