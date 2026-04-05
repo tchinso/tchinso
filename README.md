@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-05 11:18 UTC**
+> Last refreshed automatically: **2026-04-05 11:22 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -24,7 +24,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 1310591
     "JavaScript" : 115048
-    "Python" : 113937
+    "Python" : 113756
     "CSS" : 15980
     "PowerShell" : 3679
 ```
@@ -36,7 +36,7 @@ pie showData
 | --- | ---: | ---: |
 | HTML | 1,310,591 | 84.0% |
 | JavaScript | 115,048 | 7.4% |
-| Python | 113,937 | 7.3% |
+| Python | 113,756 | 7.3% |
 | CSS | 15,980 | 1.0% |
 | PowerShell | 3,679 | 0.2% |
 
