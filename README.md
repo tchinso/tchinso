@@ -6,30 +6,18 @@
 
 ## Recent repositories
 
-최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
+최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 9개입니다.  
+(`tchinso/tchinso` 저장소는 제외)
 
-1. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-04-05**
-2. [card-assets](https://github.com/tchinso/card-assets) — Updated **2026-04-04**
-3. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-04-04**
-4. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-04-04**
-5. [fav](https://github.com/tchinso/fav) — Updated **2026-04-03**
-6. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-28**
-7. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
-8. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
-9. [FrontlineSkirmish](https://github.com/tchinso/FrontlineSkirmish) — Updated **2025-09-27**
-10. [Subtitle_Overlayer](https://github.com/tchinso/Subtitle_Overlayer) — Updated **2025-09-14**
+<table>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/badge/Favorites-Updated%202026--04--05-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/badge/card-assets-Updated%202026--04--04-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/badge/PersonalWiki-Updated%202026--04--04-2ea44f?style=for-the-badge" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/badge/fav-Updated%202026--04--03-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/badge/MyFilter-Updated%202026--03--28-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/badge/ScreenDimmer-Updated%202026--03--22-2ea44f?style=for-the-badge" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/badge/MekiCopy-Updated%202026--03--22-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/FrontlineSkirmish"><img alt="FrontlineSkirmish" src="https://img.shields.io/badge/FrontlineSkirmish-Updated%202025--09--27-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/badge/Subtitle_Overlayer-Updated%202025--09--14-2ea44f?style=for-the-badge" /></a></td></tr>
+</table>
 
 ## Language ratio across my repositories
 
 > 기준: 내 공개 저장소 전체의 GitHub `languages` API 값을 합산한 **바이트 수 기준** 집계입니다.
-
-| Language | Bytes | Ratio |
-| --- | ---: | ---: |
-| HTML | 1,310,591 | 84.1% |
-| JavaScript | 115,048 | 7.4% |
-| Python | 112,788 | 7.2% |
-| CSS | 15,980 | 1.0% |
-| PowerShell | 3,679 | 0.2% |
 
 ```mermaid
 pie showData
@@ -41,9 +29,38 @@ pie showData
     "PowerShell" : 3679
 ```
 
+<details>
+<summary>언어 비율 표 보기 (접힘)</summary>
+
+| Language | Bytes | Ratio |
+| --- | ---: | ---: |
+| HTML | 1,310,591 | 84.1% |
+| JavaScript | 115,048 | 7.4% |
+| Python | 112,788 | 7.2% |
+| CSS | 15,980 | 1.0% |
+| PowerShell | 3,679 | 0.2% |
+
+</details>
+
 ## Extension ranking
 
 > 기준: 내 공개 저장소의 기본 브랜치를 재귀적으로 스캔해 파일 확장자 개수를 집계했습니다.
+
+```mermaid
+pie showData
+    title Top file extensions by file count
+    ".svg" : 54
+    ".gif" : 48
+    ".png" : 42
+    ".html" : 31
+    ".js" : 13
+    ".md" : 11
+    ".py" : 7
+    ".css" : 5
+```
+
+<details>
+<summary>확장자 랭킹 표 보기 (접힘)</summary>
 
 | Rank | Extension | Files |
 | --- | --- | ---: |
@@ -68,13 +85,12 @@ pie showData
 | 19 | `.yml` | 1 |
 | 20 | `.gitignore` | 1 |
 
+</details>
+
 ## Live cards
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tchinso&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchinso&layout=compact&theme=transparent)
+> 기존 `github-readme-stats.vercel.app` 공개 엔드포인트는 트래픽/레이트리밋 영향으로 카드가 간헐적으로 비어 보일 수 있어,  
+> 동일한 데이터 소스를 쓰는 `github-profile-summary-cards.vercel.app` 카드로 교체했습니다.
 
-## Notes
-
-- 프로필 README 단독 Markdown만으로는 GitHub 내부 데이터를 실시간 계산할 수 없어서, **GitHub Actions가 주기적으로 README를 재생성**하도록 구성했습니다.
-- 최근 저장소는 `pushed_at`, 언어 비율은 `languages` API, 확장자 랭킹은 기본 브랜치의 Git tree 재귀 조회 결과를 사용합니다.
-- 이 저장소가 `tchinso/tchinso` 프로필 저장소라면, Actions가 실행될 때마다 프로필 화면도 함께 최신 상태로 유지됩니다.
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchinso&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchinso&theme=github_dark)
