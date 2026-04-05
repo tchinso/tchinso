@@ -78,6 +78,19 @@ def build_mermaid_pie(title: str, items: Iterable[tuple[str, int]]) -> str:
     return '\n'.join(lines)
 
 
+def build_repo_badge_url(repo_name: str, updated: str) -> str:
+    query = urllib.parse.urlencode(
+        {
+            'label': repo_name,
+            'message': f'Updated {updated}',
+            'color': '2ea44f',
+            'style': 'for-the-badge',
+            'logo': 'github',
+        }
+    )
+    return f'https://img.shields.io/static/v1?{query}'
+
+
 def extension_for(path_text: str) -> str | None:
     name = Path(path_text).name
     if name.startswith('.') and name.count('.') == 1:
@@ -142,6 +155,7 @@ def generate() -> str:
             name = str(repo['name'])
             url = str(repo['html_url'])
             updated = format_date(str(repo['pushed_at']))
+            badge_url = build_repo_badge_url(name, updated)
             badge_url = (
                 'https://img.shields.io/badge/'
                 f'{urllib.parse.quote(name)}-Updated%20{updated}-2ea44f?style=for-the-badge'
