@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-04 03:14 UTC**
+> Last refreshed automatically: **2026-04-05 03:36 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -8,16 +8,16 @@
 
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 10개입니다.
 
-1. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-04-03**
-2. [fav](https://github.com/tchinso/fav) — Updated **2026-04-03**
-3. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-04-03**
-4. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-04-01**
-5. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-28**
-6. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
-7. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
-8. [synthesisgame](https://github.com/tchinso/synthesisgame) — Updated **2026-03-19**
-9. [solotro](https://github.com/tchinso/solotro) — Updated **2026-02-21**
-10. [FrontlineSkirmish](https://github.com/tchinso/FrontlineSkirmish) — Updated **2025-09-27**
+1. [Favorites](https://github.com/tchinso/Favorites) — Updated **2026-04-05**
+2. [card-assets](https://github.com/tchinso/card-assets) — Updated **2026-04-04**
+3. [PersonalWiki](https://github.com/tchinso/PersonalWiki) — Updated **2026-04-04**
+4. [tchinso](https://github.com/tchinso/tchinso) — Updated **2026-04-04**
+5. [fav](https://github.com/tchinso/fav) — Updated **2026-04-03**
+6. [MyFilter](https://github.com/tchinso/MyFilter) — Updated **2026-03-28**
+7. [ScreenDimmer](https://github.com/tchinso/ScreenDimmer) — Updated **2026-03-22**
+8. [MekiCopy](https://github.com/tchinso/MekiCopy) — Updated **2026-03-22**
+9. [FrontlineSkirmish](https://github.com/tchinso/FrontlineSkirmish) — Updated **2025-09-27**
+10. [Subtitle_Overlayer](https://github.com/tchinso/Subtitle_Overlayer) — Updated **2025-09-14**
 
 ## Language ratio across my repositories
 
@@ -25,20 +25,20 @@
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,318,997 | 83.3% |
-| JavaScript | 130,353 | 8.2% |
-| Python | 112,748 | 7.1% |
-| CSS | 18,222 | 1.2% |
-| PowerShell | 3,585 | 0.2% |
+| HTML | 1,310,591 | 84.1% |
+| JavaScript | 115,048 | 7.4% |
+| Python | 112,788 | 7.2% |
+| CSS | 15,980 | 1.0% |
+| PowerShell | 3,679 | 0.2% |
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1318997
-    "JavaScript" : 130353
-    "Python" : 112748
-    "CSS" : 18222
-    "PowerShell" : 3585
+    "HTML" : 1310591
+    "JavaScript" : 115048
+    "Python" : 112788
+    "CSS" : 15980
+    "PowerShell" : 3679
 ```
 
 ## Extension ranking
@@ -48,25 +48,25 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.svg` | 54 |
-| 2 | `.png` | 42 |
-| 3 | `.html` | 33 |
-| 4 | `.js` | 17 |
-| 5 | `.md` | 16 |
-| 6 | `.py` | 7 |
-| 7 | `.json` | 7 |
-| 8 | `.css` | 6 |
+| 2 | `.gif` | 48 |
+| 3 | `.png` | 42 |
+| 4 | `.html` | 31 |
+| 5 | `.js` | 13 |
+| 6 | `.md` | 11 |
+| 7 | `.py` | 7 |
+| 8 | `.css` | 5 |
 | 9 | `.pyc` | 5 |
-| 10 | `.onnx` | 3 |
-| 11 | `.spec` | 2 |
-| 12 | `.ps1` | 2 |
-| 13 | `.txt` | 2 |
-| 14 | `.db` | 2 |
-| 15 | `.bat` | 2 |
-| 16 | `.yml` | 1 |
-| 17 | `.gitignore` | 1 |
-| 18 | `.gitkeep` | 1 |
-| 19 | `.webp` | 1 |
-| 20 | `.cfg` | 1 |
+| 10 | `.json` | 5 |
+| 11 | `.onnx` | 3 |
+| 12 | `.spec` | 2 |
+| 13 | `.ps1` | 2 |
+| 14 | `.txt` | 2 |
+| 15 | `.db` | 2 |
+| 16 | `.bat` | 2 |
+| 17 | `.ico` | 1 |
+| 18 | `.webp` | 1 |
+| 19 | `.yml` | 1 |
+| 20 | `.gitignore` | 1 |
 
 ## Live cards
 
