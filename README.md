@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-05 03:36 UTC**
+> Last refreshed automatically: **2026-04-05 11:10 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -13,6 +13,9 @@
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-04&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-04&color=2ea44f&style=for-the-badge&logo=github" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-03&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-03-28&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/FrontlineSkirmish"><img alt="FrontlineSkirmish" src="https://img.shields.io/static/v1?label=FrontlineSkirmish&message=Updated+2025-09-27&color=2ea44f&style=for-the-badge&logo=github" /></a></td><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2025-09-14&color=2ea44f&style=for-the-badge&logo=github" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/badge/MyFilter-Updated%202026-04-05-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/badge/Favorites-Updated%202026-04-05-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/badge/card-assets-Updated%202026-04-04-2ea44f?style=for-the-badge" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/badge/PersonalWiki-Updated%202026-04-04-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/badge/fav-Updated%202026-04-03-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/badge/ScreenDimmer-Updated%202026-03-22-2ea44f?style=for-the-badge" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/badge/MekiCopy-Updated%202026-03-22-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/FrontlineSkirmish"><img alt="FrontlineSkirmish" src="https://img.shields.io/badge/FrontlineSkirmish-Updated%202025-09-27-2ea44f?style=for-the-badge" /></a></td><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/badge/Subtitle_Overlayer-Updated%202025-09-14-2ea44f?style=for-the-badge" /></a></td></tr>
 </table>
 
 ## Language ratio across my repositories
@@ -24,7 +27,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 1310591
     "JavaScript" : 115048
-    "Python" : 112788
+    "Python" : 113519
     "CSS" : 15980
     "PowerShell" : 3679
 ```
@@ -37,6 +40,7 @@ pie showData
 | HTML | 1,310,591 | 84.1% |
 | JavaScript | 115,048 | 7.4% |
 | Python | 112,788 | 7.2% |
+| Python | 113,519 | 7.3% |
 | CSS | 15,980 | 1.0% |
 | PowerShell | 3,679 | 0.2% |
 
@@ -75,15 +79,15 @@ pie showData
 | 9 | `.pyc` | 5 |
 | 10 | `.json` | 5 |
 | 11 | `.onnx` | 3 |
-| 12 | `.spec` | 2 |
-| 13 | `.ps1` | 2 |
-| 14 | `.txt` | 2 |
+| 12 | `.txt` | 2 |
+| 13 | `.spec` | 2 |
+| 14 | `.ps1` | 2 |
 | 15 | `.db` | 2 |
 | 16 | `.bat` | 2 |
-| 17 | `.ico` | 1 |
-| 18 | `.webp` | 1 |
-| 19 | `.yml` | 1 |
-| 20 | `.gitignore` | 1 |
+| 17 | `.yml` | 1 |
+| 18 | `.gitignore` | 1 |
+| 19 | `.gitkeep` | 1 |
+| 20 | `.ico` | 1 |
 
 </details>
 

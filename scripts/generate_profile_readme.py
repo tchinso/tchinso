@@ -156,6 +156,10 @@ def generate() -> str:
             url = str(repo['html_url'])
             updated = format_date(str(repo['pushed_at']))
             badge_url = build_repo_badge_url(name, updated)
+            badge_url = (
+                'https://img.shields.io/badge/'
+                f'{urllib.parse.quote(name)}-Updated%20{updated}-2ea44f?style=for-the-badge'
+            )
             cells.append(f'<td align="center"><a href="{url}"><img alt="{name}" src="{badge_url}" /></a></td>')
         while len(cells) < 3:
             cells.append('<td></td>')
