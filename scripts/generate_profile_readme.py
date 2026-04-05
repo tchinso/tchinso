@@ -148,18 +148,14 @@ def generate() -> str:
     extension_mermaid = build_mermaid_pie('Top file extensions by file count', top_extensions[:8])
 
     recent_cards: list[str] = []
-    for index in range(0, len(recent_repos), 3):
-        row = recent_repos[index:index + 3]
-        cells = []
-        for repo in row:
-            name = str(repo['name'])
-            url = str(repo['html_url'])
-            updated = format_date(str(repo['pushed_at']))
-            badge_url = build_repo_badge_url(name, updated)
-            cells.append(f'<td align="center"><a href="{url}"><img alt="{name}" src="{badge_url}" /></a></td>')
-        while len(cells) < 3:
-            cells.append('<td></td>')
-        recent_cards.append(f"<tr>{''.join(cells)}</tr>")
+    for repo in recent_repos:
+        name = str(repo['name'])
+        url = str(repo['html_url'])
+        updated = format_date(str(repo['pushed_at']))
+        badge_url = build_repo_badge_url(name, updated)
+        recent_cards.append(
+            f'<tr><td align="center"><a href="{url}"><img alt="{name}" src="{badge_url}" width="100%" /></a></td></tr>'
+        )
 
     return f"""# 냥캣 (`{OWNER}`) GitHub Profile
 
@@ -172,7 +168,7 @@ def generate() -> str:
 최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 {TOP_REPOS}개입니다.  
 (`{OWNER}/{REPO}` 저장소는 제외)
 
-<table>
+<table width="100%">
 {chr(10).join(recent_cards)}
 </table>
 
