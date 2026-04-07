@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-06 03:40 UTC**
+> Last refreshed automatically: **2026-04-07 03:29 UTC**
 >
 > 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
@@ -10,10 +10,10 @@
 (`tchinso/tchinso` 저장소는 제외)
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
