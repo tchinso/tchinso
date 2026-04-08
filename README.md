@@ -1,20 +1,15 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-08 03:31 UTC**
->
-> 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
+> Last refreshed automatically: **2026-04-08 08:28 UTC**
 
 ## Recent repositories
 
-최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 9개입니다.  
-(`tchinso/tchinso` 저장소는 제외)
-
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/FrontlineSkirmish"><img alt="FrontlineSkirmish" src="https://img.shields.io/static/v1?label=FrontlineSkirmish&message=Updated+2025-09-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -28,11 +23,11 @@
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1303668
-    "JavaScript" : 156288
-    "Python" : 113567
-    "CSS" : 19078
-    "PowerShell" : 3679
+    "HTML" : 1237866
+    "JavaScript" : 190542
+    "Python" : 114100
+    "CSS" : 15980
+    "PowerShell" : 3704
 ```
 
 <details>
@@ -40,11 +35,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,303,668 | 81.7% |
-| JavaScript | 156,288 | 9.8% |
-| Python | 113,567 | 7.1% |
-| CSS | 19,078 | 1.2% |
-| PowerShell | 3,679 | 0.2% |
+| HTML | 1,237,866 | 79.2% |
+| JavaScript | 190,542 | 12.2% |
+| Python | 114,100 | 7.3% |
+| CSS | 15,980 | 1.0% |
+| PowerShell | 3,704 | 0.2% |
 
 </details>
 
@@ -58,11 +53,11 @@ pie showData
     ".svg" : 54
     ".gif" : 48
     ".png" : 42
-    ".html" : 32
-    ".js" : 15
+    ".html" : 27
+    ".js" : 17
     ".md" : 11
     ".py" : 7
-    ".css" : 6
+    ".pyc" : 5
 ```
 
 <details>
@@ -73,17 +68,17 @@ pie showData
 | 1 | `.svg` | 54 |
 | 2 | `.gif` | 48 |
 | 3 | `.png` | 42 |
-| 4 | `.html` | 32 |
-| 5 | `.js` | 15 |
+| 4 | `.html` | 27 |
+| 5 | `.js` | 17 |
 | 6 | `.md` | 11 |
 | 7 | `.py` | 7 |
-| 8 | `.css` | 6 |
-| 9 | `.pyc` | 5 |
-| 10 | `.json` | 5 |
+| 8 | `.pyc` | 5 |
+| 9 | `.json` | 5 |
+| 10 | `.css` | 5 |
 | 11 | `.onnx` | 3 |
-| 12 | `.txt` | 2 |
-| 13 | `.spec` | 2 |
-| 14 | `.ps1` | 2 |
+| 12 | `.spec` | 2 |
+| 13 | `.ps1` | 2 |
+| 14 | `.txt` | 2 |
 | 15 | `.db` | 2 |
 | 16 | `.bat` | 2 |
 | 17 | `.yml` | 1 |
