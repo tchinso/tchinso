@@ -160,13 +160,8 @@ def generate() -> str:
     return f"""# 냥캣 (`{OWNER}`) GitHub Profile
 
 > Last refreshed automatically: **{refreshed_at}**
->
-> 이 README는 GitHub API 기반으로 자동 생성됩니다. 하드코딩 대신 **최근 저장소 / 언어 비율 / 확장자 랭킹**을 주기적으로 다시 계산합니다.
 
 ## Recent repositories
-
-최근 `pushed_at` 기준으로 가장 최근에 수정되거나 반영된 공개 저장소 {TOP_REPOS}개입니다.  
-(`{OWNER}/{REPO}` 저장소는 제외)
 
 <table width="100%">
 {chr(10).join(recent_cards)}
