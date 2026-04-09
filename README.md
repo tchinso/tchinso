@@ -1,12 +1,12 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-08 08:28 UTC**
+> Last refreshed automatically: **2026-04-09 03:27 UTC**
 
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -23,8 +23,8 @@
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1237866
-    "JavaScript" : 190542
+    "HTML" : 1247350
+    "JavaScript" : 218035
     "Python" : 114100
     "CSS" : 15980
     "PowerShell" : 3704
@@ -35,9 +35,9 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,237,866 | 79.2% |
-| JavaScript | 190,542 | 12.2% |
-| Python | 114,100 | 7.3% |
+| HTML | 1,247,350 | 78.0% |
+| JavaScript | 218,035 | 13.6% |
+| Python | 114,100 | 7.1% |
 | CSS | 15,980 | 1.0% |
 | PowerShell | 3,704 | 0.2% |
 
@@ -53,11 +53,11 @@ pie showData
     ".svg" : 54
     ".gif" : 48
     ".png" : 42
-    ".html" : 27
-    ".js" : 17
+    ".html" : 28
+    ".js" : 18
     ".md" : 11
     ".py" : 7
-    ".pyc" : 5
+    ".css" : 5
 ```
 
 <details>
@@ -68,13 +68,13 @@ pie showData
 | 1 | `.svg` | 54 |
 | 2 | `.gif` | 48 |
 | 3 | `.png` | 42 |
-| 4 | `.html` | 27 |
-| 5 | `.js` | 17 |
+| 4 | `.html` | 28 |
+| 5 | `.js` | 18 |
 | 6 | `.md` | 11 |
 | 7 | `.py` | 7 |
-| 8 | `.pyc` | 5 |
-| 9 | `.json` | 5 |
-| 10 | `.css` | 5 |
+| 8 | `.css` | 5 |
+| 9 | `.pyc` | 5 |
+| 10 | `.json` | 5 |
 | 11 | `.onnx` | 3 |
 | 12 | `.spec` | 2 |
 | 13 | `.ps1` | 2 |
