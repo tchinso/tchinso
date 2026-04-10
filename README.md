@@ -1,12 +1,12 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-09 03:27 UTC**
+> Last refreshed automatically: **2026-04-10 03:40 UTC**
 
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -23,10 +23,10 @@
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1247350
-    "JavaScript" : 218035
-    "Python" : 114100
-    "CSS" : 15980
+    "HTML" : 1247722
+    "JavaScript" : 218820
+    "Python" : 116751
+    "CSS" : 16114
     "PowerShell" : 3704
 ```
 
@@ -35,10 +35,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,247,350 | 78.0% |
-| JavaScript | 218,035 | 13.6% |
-| Python | 114,100 | 7.1% |
-| CSS | 15,980 | 1.0% |
+| HTML | 1,247,722 | 77.8% |
+| JavaScript | 218,820 | 13.6% |
+| Python | 116,751 | 7.3% |
+| CSS | 16,114 | 1.0% |
 | PowerShell | 3,704 | 0.2% |
 
 </details>
@@ -57,7 +57,7 @@ pie showData
     ".js" : 18
     ".md" : 11
     ".py" : 7
-    ".css" : 5
+    ".pyc" : 5
 ```
 
 <details>
@@ -72,19 +72,19 @@ pie showData
 | 5 | `.js` | 18 |
 | 6 | `.md` | 11 |
 | 7 | `.py` | 7 |
-| 8 | `.css` | 5 |
-| 9 | `.pyc` | 5 |
-| 10 | `.json` | 5 |
+| 8 | `.pyc` | 5 |
+| 9 | `.json` | 5 |
+| 10 | `.css` | 5 |
 | 11 | `.onnx` | 3 |
 | 12 | `.spec` | 2 |
 | 13 | `.ps1` | 2 |
 | 14 | `.txt` | 2 |
 | 15 | `.db` | 2 |
 | 16 | `.bat` | 2 |
-| 17 | `.yml` | 1 |
-| 18 | `.gitignore` | 1 |
-| 19 | `.gitkeep` | 1 |
-| 20 | `.ico` | 1 |
+| 17 | `.ico` | 1 |
+| 18 | `.webp` | 1 |
+| 19 | `.yml` | 1 |
+| 20 | `.gitignore` | 1 |
 
 </details>
 
