@@ -1,16 +1,16 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-12 03:45 UTC**
+> Last refreshed automatically: **2026-04-13 03:51 UTC**
 
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-04-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-04-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-04-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/card-assets"><img alt="card-assets" src="https://img.shields.io/static/v1?label=card-assets&message=Updated+2026-04-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-04-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-03-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/FrontlineSkirmish"><img alt="FrontlineSkirmish" src="https://img.shields.io/static/v1?label=FrontlineSkirmish&message=Updated+2025-09-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2025-09-14&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -55,7 +55,7 @@ pie showData
     ".png" : 42
     ".html" : 28
     ".js" : 18
-    ".md" : 11
+    ".md" : 12
     ".py" : 7
     ".pyc" : 5
 ```
@@ -70,7 +70,7 @@ pie showData
 | 3 | `.png` | 42 |
 | 4 | `.html` | 28 |
 | 5 | `.js` | 18 |
-| 6 | `.md` | 11 |
+| 6 | `.md` | 12 |
 | 7 | `.py` | 7 |
 | 8 | `.pyc` | 5 |
 | 9 | `.json` | 5 |
@@ -81,10 +81,10 @@ pie showData
 | 14 | `.txt` | 2 |
 | 15 | `.db` | 2 |
 | 16 | `.bat` | 2 |
-| 17 | `.yml` | 1 |
-| 18 | `.gitignore` | 1 |
-| 19 | `.gitkeep` | 1 |
-| 20 | `.ico` | 1 |
+| 17 | `.ico` | 1 |
+| 18 | `.webp` | 1 |
+| 19 | `.cfg` | 1 |
+| 20 | `.yml` | 1 |
 
 </details>
 
