@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-13 03:51 UTC**
+> Last refreshed automatically: **2026-04-14 03:40 UTC**
 
 ## Recent repositories
 
@@ -81,10 +81,10 @@ pie showData
 | 14 | `.txt` | 2 |
 | 15 | `.db` | 2 |
 | 16 | `.bat` | 2 |
-| 17 | `.ico` | 1 |
-| 18 | `.webp` | 1 |
-| 19 | `.cfg` | 1 |
-| 20 | `.yml` | 1 |
+| 17 | `.yml` | 1 |
+| 18 | `.gitignore` | 1 |
+| 19 | `.gitkeep` | 1 |
+| 20 | `.ico` | 1 |
 
 </details>
 
