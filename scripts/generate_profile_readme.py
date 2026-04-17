@@ -169,8 +169,6 @@ def generate() -> str:
 
 ## Language ratio across my repositories
 
-> 기준: 내 공개 저장소 전체의 GitHub `languages` API 값을 합산한 **바이트 수 기준** 집계입니다.
-
 {language_mermaid}
 
 <details>
@@ -184,8 +182,6 @@ def generate() -> str:
 
 ## Extension ranking
 
-> 기준: 내 공개 저장소의 기본 브랜치를 재귀적으로 스캔해 파일 확장자 개수를 집계했습니다.
-
 {extension_mermaid}
 
 <details>
@@ -198,9 +194,6 @@ def generate() -> str:
 </details>
 
 ## Live cards
-
-> 기존 `github-readme-stats.vercel.app` 공개 엔드포인트는 트래픽/레이트리밋 영향으로 카드가 간헐적으로 비어 보일 수 있어,  
-> 동일한 데이터 소스를 쓰는 `github-profile-summary-cards.vercel.app` 카드로 교체했습니다.
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={OWNER}&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username={OWNER}&theme=github_dark)
