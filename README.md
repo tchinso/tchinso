@@ -1,6 +1,6 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-04-16 03:45 UTC**
+> Last refreshed automatically: **2026-04-17 01:42 UTC**
 
 ## Recent repositories
 
@@ -18,14 +18,12 @@
 
 ## Language ratio across my repositories
 
-> 기준: 내 공개 저장소 전체의 GitHub `languages` API 값을 합산한 **바이트 수 기준** 집계입니다.
-
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 1247722
     "JavaScript" : 218820
-    "Python" : 116751
+    "Python" : 116226
     "CSS" : 16114
     "PowerShell" : 3704
 ```
@@ -36,16 +34,14 @@ pie showData
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
 | HTML | 1,247,722 | 77.8% |
-| JavaScript | 218,820 | 13.6% |
-| Python | 116,751 | 7.3% |
+| JavaScript | 218,820 | 13.7% |
+| Python | 116,226 | 7.3% |
 | CSS | 16,114 | 1.0% |
 | PowerShell | 3,704 | 0.2% |
 
 </details>
 
 ## Extension ranking
-
-> 기준: 내 공개 저장소의 기본 브랜치를 재귀적으로 스캔해 파일 확장자 개수를 집계했습니다.
 
 ```mermaid
 pie showData
@@ -89,9 +85,6 @@ pie showData
 </details>
 
 ## Live cards
-
-> 기존 `github-readme-stats.vercel.app` 공개 엔드포인트는 트래픽/레이트리밋 영향으로 카드가 간헐적으로 비어 보일 수 있어,  
-> 동일한 데이터 소스를 쓰는 `github-profile-summary-cards.vercel.app` 카드로 교체했습니다.
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchinso&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchinso&theme=github_dark)
