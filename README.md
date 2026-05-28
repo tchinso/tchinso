@@ -1,19 +1,19 @@
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-05-25 04:49 UTC**
+> Last refreshed automatically: **2026-05-28 04:37 UTC**
 
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-05-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-05-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-05-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-05-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-05-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/mikuwalk"><img alt="mikuwalk" src="https://img.shields.io/static/v1?label=mikuwalk&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-05-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-05-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-05-15&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2026-05-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/BaiduRenamer"><img alt="BaiduRenamer" src="https://img.shields.io/static/v1?label=BaiduRenamer&message=Updated+2026-05-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-05-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/privacy-policy"><img alt="privacy-policy" src="https://img.shields.io/static/v1?label=privacy-policy&message=Updated+2026-05-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 ## Language ratio across my repositories
@@ -21,10 +21,10 @@
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1327762
-    "JavaScript" : 318328
-    "Python" : 182047
-    "CSS" : 35589
+    "HTML" : 1404275
+    "JavaScript" : 340207
+    "Python" : 196597
+    "CSS" : 43395
     "PowerShell" : 3704
 ```
 
@@ -33,10 +33,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,327,762 | 71.1% |
-| JavaScript | 318,328 | 17.0% |
-| Python | 182,047 | 9.7% |
-| CSS | 35,589 | 1.9% |
+| HTML | 1,404,275 | 70.6% |
+| JavaScript | 340,207 | 17.1% |
+| Python | 196,597 | 9.9% |
+| CSS | 43,395 | 2.2% |
 | PowerShell | 3,704 | 0.2% |
 
 </details>
@@ -46,14 +46,14 @@ pie showData
 ```mermaid
 pie showData
     title Top file extensions by file count
+    ".png" : 71
     ".svg" : 54
     ".gif" : 48
-    ".png" : 45
-    ".html" : 33
-    ".js" : 24
-    ".md" : 15
+    ".html" : 35
+    ".js" : 25
+    ".md" : 17
     ".json" : 11
-    ".py" : 8
+    ".py" : 9
 ```
 
 <details>
@@ -61,16 +61,16 @@ pie showData
 
 | Rank | Extension | Files |
 | --- | --- | ---: |
-| 1 | `.svg` | 54 |
-| 2 | `.gif` | 48 |
-| 3 | `.png` | 45 |
-| 4 | `.html` | 33 |
-| 5 | `.js` | 24 |
-| 6 | `.md` | 15 |
+| 1 | `.png` | 71 |
+| 2 | `.svg` | 54 |
+| 3 | `.gif` | 48 |
+| 4 | `.html` | 35 |
+| 5 | `.js` | 25 |
+| 6 | `.md` | 17 |
 | 7 | `.json` | 11 |
-| 8 | `.py` | 8 |
-| 9 | `.css` | 7 |
-| 10 | `.pyc` | 5 |
+| 8 | `.py` | 9 |
+| 9 | `.css` | 8 |
+| 10 | `.pyc` | 6 |
 | 11 | `.onnx` | 3 |
 | 12 | `.spec` | 2 |
 | 13 | `.ps1` | 2 |
@@ -78,9 +78,9 @@ pie showData
 | 15 | `.bat` | 2 |
 | 16 | `.ico` | 1 |
 | 17 | `.webp` | 1 |
-| 18 | `.yml` | 1 |
-| 19 | `.gitignore` | 1 |
-| 20 | `.gitkeep` | 1 |
+| 18 | `.jpg` | 1 |
+| 19 | `.yml` | 1 |
+| 20 | `.gitignore` | 1 |
 
 </details>
 
