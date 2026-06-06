@@ -1,7 +1,3 @@
-# 냥캣 (`tchinso`) GitHub Profile
-
-> Last refreshed automatically: **2026-06-06 07:43 UTC**
-
 ## Recent repositories
 
 <table width="100%">
@@ -14,7 +10,14 @@
 <tr><td align="center"><a href="https://github.com/tchinso/ruruworld"><img alt="ruruworld" src="https://img.shields.io/static/v1?label=ruruworld&message=Updated+2026-05-29&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-05-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-05-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/mikuwalk"><img alt="mikuwalk" src="https://img.shields.io/static/v1?label=mikuwalk&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
+
+# 냥캣 (`tchinso`) GitHub Profile
+
+> Last refreshed automatically: **2026-06-06 10:04 UTC**
 
 ## Language ratio across my repositories
 
@@ -24,7 +27,7 @@ pie showData
     "HTML" : 1638300
     "JavaScript" : 792527
     "CSS" : 192585
-    "Python" : 163736
+    "Python" : 163737
     "C" : 83129
 ```
 
@@ -36,7 +39,7 @@ pie showData
 | HTML | 1,638,300 | 57.0% |
 | JavaScript | 792,527 | 27.6% |
 | CSS | 192,585 | 6.7% |
-| Python | 163,736 | 5.7% |
+| Python | 163,737 | 5.7% |
 | C | 83,129 | 2.9% |
 
 </details>
