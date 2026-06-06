@@ -13,7 +13,7 @@ from typing import Iterable
 OWNER = os.getenv('PROFILE_OWNER', 'tchinso')
 REPO = os.getenv('PROFILE_REPO', OWNER)
 README_PATH = Path('README.md')
-TOP_REPOS = 9
+TOP_REPOS = 12
 TOP_LANGUAGES = 5
 TOP_EXTENSIONS = 20
 API_ROOT = 'https://api.github.com'
@@ -157,15 +157,15 @@ def generate() -> str:
             f'<tr><td align="center"><a href="{url}"><img alt="{name}" src="{badge_url}" width="100%" /></a></td></tr>'
         )
 
-    return f"""# 냥캣 (`{OWNER}`) GitHub Profile
-
-> Last refreshed automatically: **{refreshed_at}**
-
-## Recent repositories
+    return f"""## Recent repositories
 
 <table width="100%">
 {chr(10).join(recent_cards)}
 </table>
+
+# 냥캣 (`{OWNER}`) GitHub Profile
+
+> Last refreshed automatically: **{refreshed_at}**
 
 ## Language ratio across my repositories
 
