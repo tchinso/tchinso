@@ -1,10 +1,10 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-06-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-06-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/BaiduRenamer"><img alt="BaiduRenamer" src="https://img.shields.io/static/v1?label=BaiduRenamer&message=Updated+2026-05-31&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-08 05:00 UTC**
+> Last refreshed automatically: **2026-06-11 04:57 UTC**
 
 ## Language ratio across my repositories
 
@@ -25,9 +25,9 @@
 pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 1638515
-    "JavaScript" : 807320
-    "CSS" : 194447
-    "Python" : 163737
+    "JavaScript" : 817155
+    "CSS" : 196751
+    "Python" : 185042
     "C" : 83129
 ```
 
@@ -36,11 +36,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,638,515 | 56.7% |
-| JavaScript | 807,320 | 27.9% |
-| CSS | 194,447 | 6.7% |
-| Python | 163,737 | 5.7% |
-| C | 83,129 | 2.9% |
+| HTML | 1,638,515 | 56.0% |
+| JavaScript | 817,155 | 27.9% |
+| CSS | 196,751 | 6.7% |
+| Python | 185,042 | 6.3% |
+| C | 83,129 | 2.8% |
 
 </details>
 
@@ -76,13 +76,13 @@ pie showData
 | 10 | `.pyc` | 6 |
 | 11 | `.yml` | 5 |
 | 12 | `.onnx` | 3 |
-| 13 | `.gitignore` | 2 |
-| 14 | `.webp` | 2 |
-| 15 | `.mjs` | 2 |
-| 16 | `.txt` | 2 |
-| 17 | `.spec` | 2 |
-| 18 | `.ps1` | 2 |
-| 19 | `.ico` | 2 |
+| 13 | `.spec` | 2 |
+| 14 | `.ps1` | 2 |
+| 15 | `.ico` | 2 |
+| 16 | `.webp` | 2 |
+| 17 | `.txt` | 2 |
+| 18 | `.gitignore` | 2 |
+| 19 | `.mjs` | 2 |
 | 20 | `.c` | 2 |
 
 </details>
