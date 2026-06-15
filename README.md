@@ -1,33 +1,33 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/mikuescape"><img alt="mikuescape" src="https://img.shields.io/static/v1?label=mikuescape&message=Updated+2026-06-14&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/HatsanTimer"><img alt="HatsanTimer" src="https://img.shields.io/static/v1?label=HatsanTimer&message=Updated+2026-06-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWikiSkill"><img alt="PersonalWikiSkill" src="https://img.shields.io/static/v1?label=PersonalWikiSkill&message=Updated+2026-06-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-06-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-06-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/BaiduRenamer"><img alt="BaiduRenamer" src="https://img.shields.io/static/v1?label=BaiduRenamer&message=Updated+2026-05-31&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/ruruworld"><img alt="ruruworld" src="https://img.shields.io/static/v1?label=ruruworld&message=Updated+2026-05-29&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-05-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Subtitle_Overlayer"><img alt="Subtitle_Overlayer" src="https://img.shields.io/static/v1?label=Subtitle_Overlayer&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/mikuwalk"><img alt="mikuwalk" src="https://img.shields.io/static/v1?label=mikuwalk&message=Updated+2026-05-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-11 04:57 UTC**
+> Last refreshed automatically: **2026-06-15 05:26 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1638515
-    "JavaScript" : 817155
-    "CSS" : 196751
-    "Python" : 185042
+    "HTML" : 1637526
+    "JavaScript" : 961505
+    "Python" : 322172
+    "CSS" : 205309
     "C" : 83129
 ```
 
@@ -36,11 +36,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,638,515 | 56.0% |
-| JavaScript | 817,155 | 27.9% |
-| CSS | 196,751 | 6.7% |
-| Python | 185,042 | 6.3% |
-| C | 83,129 | 2.8% |
+| HTML | 1,637,526 | 51.0% |
+| JavaScript | 961,505 | 29.9% |
+| Python | 322,172 | 10.0% |
+| CSS | 205,309 | 6.4% |
+| C | 83,129 | 2.6% |
 
 </details>
 
@@ -49,14 +49,14 @@ pie showData
 ```mermaid
 pie showData
     title Top file extensions by file count
-    ".md" : 222
+    ".md" : 226
     ".png" : 85
     ".html" : 58
     ".svg" : 54
     ".gif" : 48
-    ".js" : 45
-    ".json" : 13
-    ".css" : 10
+    ".js" : 46
+    ".json" : 17
+    ".css" : 11
 ```
 
 <details>
@@ -64,26 +64,26 @@ pie showData
 
 | Rank | Extension | Files |
 | --- | --- | ---: |
-| 1 | `.md` | 222 |
+| 1 | `.md` | 226 |
 | 2 | `.png` | 85 |
 | 3 | `.html` | 58 |
 | 4 | `.svg` | 54 |
 | 5 | `.gif` | 48 |
-| 6 | `.js` | 45 |
-| 7 | `.json` | 13 |
-| 8 | `.css` | 10 |
-| 9 | `.py` | 7 |
-| 10 | `.pyc` | 6 |
-| 11 | `.yml` | 5 |
-| 12 | `.onnx` | 3 |
-| 13 | `.spec` | 2 |
-| 14 | `.ps1` | 2 |
-| 15 | `.ico` | 2 |
-| 16 | `.webp` | 2 |
-| 17 | `.txt` | 2 |
-| 18 | `.gitignore` | 2 |
-| 19 | `.mjs` | 2 |
-| 20 | `.c` | 2 |
+| 6 | `.js` | 46 |
+| 7 | `.json` | 17 |
+| 8 | `.css` | 11 |
+| 9 | `.py` | 9 |
+| 10 | `.mp3` | 7 |
+| 11 | `.yml` | 6 |
+| 12 | `.glb` | 4 |
+| 13 | `.gitignore` | 3 |
+| 14 | `.spec` | 3 |
+| 15 | `.pyc` | 3 |
+| 16 | `.onnx` | 3 |
+| 17 | `.log` | 2 |
+| 18 | `.ps1` | 2 |
+| 19 | `.ico` | 2 |
+| 20 | `.webp` | 2 |
 
 </details>
 
