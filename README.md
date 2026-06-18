@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-06-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-06-18&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-06-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/mikuescape"><img alt="mikuescape" src="https://img.shields.io/static/v1?label=mikuescape&message=Updated+2026-06-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,16 +17,16 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-18 05:00 UTC**
+> Last refreshed automatically: **2026-06-18 09:07 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1638055
-    "JavaScript" : 973804
-    "Python" : 359680
+    "HTML" : 1638532
+    "JavaScript" : 978038
+    "Python" : 423512
     "CSS" : 205648
     "C" : 83129
 ```
@@ -36,10 +36,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,638,055 | 50.2% |
-| JavaScript | 973,804 | 29.8% |
-| Python | 359,680 | 11.0% |
-| CSS | 205,648 | 6.3% |
+| HTML | 1,638,532 | 49.2% |
+| JavaScript | 978,038 | 29.3% |
+| Python | 423,512 | 12.7% |
+| CSS | 205,648 | 6.2% |
 | C | 83,129 | 2.5% |
 
 </details>
@@ -51,12 +51,12 @@ pie showData
     title Top file extensions by file count
     ".md" : 226
     ".png" : 85
-    ".html" : 58
+    ".html" : 59
     ".svg" : 54
+    ".js" : 49
     ".gif" : 48
-    ".js" : 47
+    ".py" : 19
     ".json" : 17
-    ".css" : 11
 ```
 
 <details>
@@ -66,24 +66,24 @@ pie showData
 | --- | --- | ---: |
 | 1 | `.md` | 226 |
 | 2 | `.png` | 85 |
-| 3 | `.html` | 58 |
+| 3 | `.html` | 59 |
 | 4 | `.svg` | 54 |
-| 5 | `.gif` | 48 |
-| 6 | `.js` | 47 |
-| 7 | `.json` | 17 |
-| 8 | `.css` | 11 |
-| 9 | `.py` | 9 |
+| 5 | `.js` | 49 |
+| 6 | `.gif` | 48 |
+| 7 | `.py` | 19 |
+| 8 | `.json` | 17 |
+| 9 | `.css` | 11 |
 | 10 | `.mp3` | 7 |
 | 11 | `.ico` | 6 |
 | 12 | `.yml` | 6 |
 | 13 | `.gitignore` | 5 |
-| 14 | `.glb` | 4 |
-| 15 | `.spec` | 3 |
-| 16 | `.onnx` | 3 |
-| 17 | `.ps1` | 2 |
-| 18 | `.bat` | 2 |
-| 19 | `.webp` | 2 |
-| 20 | `.mjs` | 2 |
+| 14 | `.spec` | 5 |
+| 15 | `.glb` | 4 |
+| 16 | `.gitkeep` | 3 |
+| 17 | `.onnx` | 3 |
+| 18 | `.ps1` | 2 |
+| 19 | `.bat` | 2 |
+| 20 | `.webp` | 2 |
 
 </details>
 
