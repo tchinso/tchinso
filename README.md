@@ -17,16 +17,16 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-18 09:07 UTC**
+> Last refreshed automatically: **2026-06-19 03:28 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "HTML" : 1638532
-    "JavaScript" : 978038
-    "Python" : 423512
+    "HTML" : 1639442
+    "JavaScript" : 987090
+    "Python" : 442173
     "CSS" : 205648
     "C" : 83129
 ```
@@ -36,10 +36,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,638,532 | 49.2% |
-| JavaScript | 978,038 | 29.3% |
-| Python | 423,512 | 12.7% |
-| CSS | 205,648 | 6.2% |
+| HTML | 1,639,442 | 48.8% |
+| JavaScript | 987,090 | 29.4% |
+| Python | 442,173 | 13.2% |
+| CSS | 205,648 | 6.1% |
 | C | 83,129 | 2.5% |
 
 </details>
@@ -55,7 +55,7 @@ pie showData
     ".svg" : 54
     ".js" : 49
     ".gif" : 48
-    ".py" : 19
+    ".py" : 21
     ".json" : 17
 ```
 
@@ -70,7 +70,7 @@ pie showData
 | 4 | `.svg` | 54 |
 | 5 | `.js` | 49 |
 | 6 | `.gif` | 48 |
-| 7 | `.py` | 19 |
+| 7 | `.py` | 21 |
 | 8 | `.json` | 17 |
 | 9 | `.css` | 11 |
 | 10 | `.mp3` | 7 |
@@ -80,10 +80,10 @@ pie showData
 | 14 | `.spec` | 5 |
 | 15 | `.glb` | 4 |
 | 16 | `.gitkeep` | 3 |
-| 17 | `.onnx` | 3 |
-| 18 | `.ps1` | 2 |
-| 19 | `.bat` | 2 |
-| 20 | `.webp` | 2 |
+| 17 | `.log` | 3 |
+| 18 | `.onnx` | 3 |
+| 19 | `.ps1` | 2 |
+| 20 | `.bat` | 2 |
 
 </details>
 
