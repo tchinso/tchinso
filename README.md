@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-21 06:46 UTC**
+> Last refreshed automatically: **2026-06-22 05:28 UTC**
 
 ## Language ratio across my repositories
 
@@ -50,7 +50,7 @@ pie showData
 pie showData
     title Top file extensions by file count
     ".md" : 226
-    ".png" : 85
+    ".png" : 86
     ".html" : 59
     ".svg" : 54
     ".js" : 49
@@ -65,7 +65,7 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.md` | 226 |
-| 2 | `.png` | 85 |
+| 2 | `.png` | 86 |
 | 3 | `.html` | 59 |
 | 4 | `.svg` | 54 |
 | 5 | `.js` | 49 |
