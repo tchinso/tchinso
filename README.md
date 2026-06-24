@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MikuTPS"><img alt="MikuTPS" src="https://img.shields.io/static/v1?label=MikuTPS&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,12 +13,11 @@
 <tr><td align="center"><a href="https://github.com/tchinso/HatsanTimer"><img alt="HatsanTimer" src="https://img.shields.io/static/v1?label=HatsanTimer&message=Updated+2026-06-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWikiSkill"><img alt="PersonalWikiSkill" src="https://img.shields.io/static/v1?label=PersonalWikiSkill&message=Updated+2026-06-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-06-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-24 11:30 UTC**
+> Last refreshed automatically: **2026-06-24 14:53 UTC**
 
 ## Language ratio across my repositories
 
@@ -28,7 +28,7 @@ pie showData
     "JavaScript" : 1269738
     "Python" : 652315
     "CSS" : 218282
-    "C" : 83129
+    "C" : 126258
 ```
 
 <details>
@@ -36,11 +36,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| HTML | 1,298,873 | 36.7% |
-| JavaScript | 1,269,738 | 35.9% |
-| Python | 652,315 | 18.4% |
-| CSS | 218,282 | 6.2% |
-| C | 83,129 | 2.3% |
+| HTML | 1,298,873 | 36.2% |
+| JavaScript | 1,269,738 | 35.4% |
+| Python | 652,315 | 18.2% |
+| CSS | 218,282 | 6.1% |
+| C | 126,258 | 3.5% |
 
 </details>
 
@@ -49,7 +49,7 @@ pie showData
 ```mermaid
 pie showData
     title Top file extensions by file count
-    ".md" : 228
+    ".md" : 229
     ".png" : 86
     ".js" : 79
     ".html" : 63
@@ -64,7 +64,7 @@ pie showData
 
 | Rank | Extension | Files |
 | --- | --- | ---: |
-| 1 | `.md` | 228 |
+| 1 | `.md` | 229 |
 | 2 | `.png` | 86 |
 | 3 | `.js` | 79 |
 | 4 | `.html` | 63 |
@@ -81,9 +81,9 @@ pie showData
 | 15 | `.ico` | 6 |
 | 16 | `.mjs` | 5 |
 | 17 | `.txt` | 5 |
-| 18 | `.gitkeep` | 3 |
-| 19 | `.log` | 3 |
-| 20 | `.onnx` | 3 |
+| 18 | `.cfg` | 4 |
+| 19 | `.c` | 3 |
+| 20 | `.gitkeep` | 3 |
 
 </details>
 
