@@ -1,10 +1,10 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MikuTPS"><img alt="MikuTPS" src="https://img.shields.io/static/v1?label=MikuTPS&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-06-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-24 14:53 UTC**
+> Last refreshed automatically: **2026-06-25 04:04 UTC**
 
 ## Language ratio across my repositories
 
@@ -25,10 +25,10 @@
 pie showData
     title Language ratio by bytes across public repositories
     "HTML" : 1298873
-    "JavaScript" : 1269738
-    "Python" : 652315
+    "JavaScript" : 1269766
+    "Python" : 654959
     "CSS" : 218282
-    "C" : 126258
+    "C" : 131031
 ```
 
 <details>
@@ -37,10 +37,10 @@ pie showData
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
 | HTML | 1,298,873 | 36.2% |
-| JavaScript | 1,269,738 | 35.4% |
-| Python | 652,315 | 18.2% |
+| JavaScript | 1,269,766 | 35.3% |
+| Python | 654,959 | 18.2% |
 | CSS | 218,282 | 6.1% |
-| C | 126,258 | 3.5% |
+| C | 131,031 | 3.6% |
 
 </details>
 
@@ -74,16 +74,16 @@ pie showData
 | 8 | `.glb` | 31 |
 | 9 | `.json` | 21 |
 | 10 | `.css` | 13 |
-| 11 | `.yml` | 7 |
-| 12 | `.gitignore` | 7 |
-| 13 | `.spec` | 7 |
+| 11 | `.gitignore` | 7 |
+| 12 | `.spec` | 7 |
+| 13 | `.yml` | 7 |
 | 14 | `.mp3` | 7 |
-| 15 | `.ico` | 6 |
-| 16 | `.mjs` | 5 |
+| 15 | `.pyc` | 6 |
+| 16 | `.ico` | 6 |
 | 17 | `.txt` | 5 |
-| 18 | `.cfg` | 4 |
-| 19 | `.c` | 3 |
-| 20 | `.gitkeep` | 3 |
+| 18 | `.mjs` | 5 |
+| 19 | `.cfg` | 4 |
+| 20 | `.c` | 3 |
 
 </details>
 
