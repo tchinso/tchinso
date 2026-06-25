@@ -14,8 +14,8 @@ OWNER = os.getenv('PROFILE_OWNER', 'tchinso')
 REPO = os.getenv('PROFILE_REPO', OWNER)
 README_PATH = Path('README.md')
 TOP_REPOS = 12
-TOP_LANGUAGES = 5
-TOP_EXTENSIONS = 20
+TOP_LANGUAGES = 7
+TOP_EXTENSIONS = 15
 API_ROOT = 'https://api.github.com'
 
 
