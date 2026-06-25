@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-25 04:04 UTC**
+> Last refreshed automatically: **2026-06-25 04:07 UTC**
 
 ## Language ratio across my repositories
 
@@ -29,6 +29,8 @@ pie showData
     "Python" : 654959
     "CSS" : 218282
     "C" : 131031
+    "PowerShell" : 18578
+    "Batchfile" : 499
 ```
 
 <details>
@@ -41,6 +43,8 @@ pie showData
 | Python | 654,959 | 18.2% |
 | CSS | 218,282 | 6.1% |
 | C | 131,031 | 3.6% |
+| PowerShell | 18,578 | 0.5% |
+| Batchfile | 499 | 0.0% |
 
 </details>
 
@@ -74,16 +78,21 @@ pie showData
 | 8 | `.glb` | 31 |
 | 9 | `.json` | 21 |
 | 10 | `.css` | 13 |
-| 11 | `.gitignore` | 7 |
-| 12 | `.spec` | 7 |
-| 13 | `.yml` | 7 |
+| 11 | `.yml` | 7 |
+| 12 | `.gitignore` | 7 |
+| 13 | `.spec` | 7 |
 | 14 | `.mp3` | 7 |
 | 15 | `.pyc` | 6 |
 | 16 | `.ico` | 6 |
 | 17 | `.txt` | 5 |
 | 18 | `.mjs` | 5 |
 | 19 | `.cfg` | 4 |
-| 20 | `.c` | 3 |
+| 20 | `.gitkeep` | 3 |
+| 21 | `.c` | 3 |
+| 22 | `.log` | 3 |
+| 23 | `.onnx` | 3 |
+| 24 | `.ps1` | 2 |
+| 25 | `.webp` | 2 |
 
 </details>
 
