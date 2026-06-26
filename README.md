@@ -1,9 +1,9 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MikuTPS"><img alt="MikuTPS" src="https://img.shields.io/static/v1?label=MikuTPS&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-06-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-25 04:32 UTC**
+> Last refreshed automatically: **2026-06-26 03:00 UTC**
 
 ## Language ratio across my repositories
 
@@ -28,9 +28,9 @@ pie showData
     "JavaScript" : 1269766
     "Python" : 654959
     "CSS" : 218282
-    "C" : 131031
+    "C" : 83129
+    "C#" : 39853
     "PowerShell" : 18578
-    "Batchfile" : 499
 ```
 
 <details>
@@ -39,12 +39,12 @@ pie showData
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
 | HTML | 1,298,873 | 36.2% |
-| JavaScript | 1,269,766 | 35.3% |
-| Python | 654,959 | 18.2% |
+| JavaScript | 1,269,766 | 35.4% |
+| Python | 654,959 | 18.3% |
 | CSS | 218,282 | 6.1% |
-| C | 131,031 | 3.6% |
+| C | 83,129 | 2.3% |
+| C# | 39,853 | 1.1% |
 | PowerShell | 18,578 | 0.5% |
-| Batchfile | 499 | 0.0% |
 
 </details>
 
@@ -88,9 +88,9 @@ pie showData
 | 18 | `.mjs` | 5 |
 | 19 | `.cfg` | 4 |
 | 20 | `.gitkeep` | 3 |
-| 21 | `.c` | 3 |
-| 22 | `.log` | 3 |
-| 23 | `.onnx` | 3 |
+| 21 | `.log` | 3 |
+| 22 | `.onnx` | 3 |
+| 23 | `.gitattributes` | 2 |
 | 24 | `.ps1` | 2 |
 | 25 | `.webp` | 2 |
 
