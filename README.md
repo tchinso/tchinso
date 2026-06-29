@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,12 +13,11 @@
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-06-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/mikuescape"><img alt="mikuescape" src="https://img.shields.io/static/v1?label=mikuescape&message=Updated+2026-06-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/HatsanTimer"><img alt="HatsanTimer" src="https://img.shields.io/static/v1?label=HatsanTimer&message=Updated+2026-06-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWikiSkill"><img alt="PersonalWikiSkill" src="https://img.shields.io/static/v1?label=PersonalWikiSkill&message=Updated+2026-06-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-28 16:38 UTC**
+> Last refreshed automatically: **2026-06-29 00:46 UTC**
 
 ## Language ratio across my repositories
 
@@ -78,8 +78,8 @@ pie showData
 | 8 | `.glb` | 31 |
 | 9 | `.json` | 21 |
 | 10 | `.css` | 14 |
-| 11 | `.gitignore` | 7 |
-| 12 | `.yml` | 7 |
+| 11 | `.yml` | 7 |
+| 12 | `.gitignore` | 7 |
 | 13 | `.spec` | 7 |
 | 14 | `.mp3` | 7 |
 | 15 | `.ico` | 6 |
