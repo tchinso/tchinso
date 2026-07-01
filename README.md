@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-07-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-06-29 00:59 UTC**
+> Last refreshed automatically: **2026-07-01 21:48 UTC**
 
 ## Language ratio across my repositories
 
