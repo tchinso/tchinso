@@ -1,8 +1,9 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-07-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-07-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-07-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-07-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-07-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-07-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/BaiduRenamer"><img alt="BaiduRenamer" src="https://img.shields.io/static/v1?label=BaiduRenamer&message=Updated+2026-07-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-07-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,25 +13,24 @@
 <tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-07-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-06-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/AppdataBackup"><img alt="AppdataBackup" src="https://img.shields.io/static/v1?label=AppdataBackup&message=Updated+2026-06-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MikuTPS"><img alt="MikuTPS" src="https://img.shields.io/static/v1?label=MikuTPS&message=Updated+2026-06-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-07-08 21:31 UTC**
+> Last refreshed automatically: **2026-07-11 09:17 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 1388264
-    "HTML" : 1307845
-    "Python" : 693821
-    "CSS" : 240405
+    "JavaScript" : 1596749
+    "HTML" : 1317365
+    "Python" : 741620
+    "CSS" : 258654
     "C#" : 96513
     "C" : 33939
-    "PowerShell" : 21439
+    "PowerShell" : 31214
 ```
 
 <details>
@@ -38,13 +38,13 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 1,388,264 | 36.7% |
-| HTML | 1,307,845 | 34.6% |
-| Python | 693,821 | 18.3% |
-| CSS | 240,405 | 6.4% |
-| C# | 96,513 | 2.6% |
-| C | 33,939 | 0.9% |
-| PowerShell | 21,439 | 0.6% |
+| JavaScript | 1,596,749 | 39.2% |
+| HTML | 1,317,365 | 32.3% |
+| Python | 741,620 | 18.2% |
+| CSS | 258,654 | 6.3% |
+| C# | 96,513 | 2.4% |
+| C | 33,939 | 0.8% |
+| PowerShell | 31,214 | 0.8% |
 
 </details>
 
@@ -54,13 +54,13 @@ pie showData
 pie showData
     title Top file extensions by file count
     ".webp" : 425
-    ".md" : 230
-    ".png" : 88
-    ".js" : 85
-    ".html" : 66
-    ".svg" : 55
+    ".md" : 233
+    ".png" : 92
+    ".js" : 91
+    ".html" : 69
+    ".svg" : 56
     ".gif" : 48
-    ".py" : 38
+    ".py" : 39
 ```
 
 <details>
@@ -69,30 +69,30 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.webp` | 425 |
-| 2 | `.md` | 230 |
-| 3 | `.png` | 88 |
-| 4 | `.js` | 85 |
-| 5 | `.html` | 66 |
-| 6 | `.svg` | 55 |
+| 2 | `.md` | 233 |
+| 3 | `.png` | 92 |
+| 4 | `.js` | 91 |
+| 5 | `.html` | 69 |
+| 6 | `.svg` | 56 |
 | 7 | `.gif` | 48 |
-| 8 | `.py` | 38 |
+| 8 | `.py` | 39 |
 | 9 | `.glb` | 31 |
-| 10 | `.json` | 23 |
-| 11 | `.css` | 16 |
-| 12 | `.gitignore` | 9 |
+| 10 | `.json` | 24 |
+| 11 | `.css` | 18 |
+| 12 | `.gitignore` | 10 |
 | 13 | `.txt` | 8 |
 | 14 | `.spec` | 7 |
 | 15 | `.yml` | 7 |
 | 16 | `.mp3` | 7 |
 | 17 | `.ico` | 6 |
 | 18 | `.mjs` | 5 |
-| 19 | `.cfg` | 4 |
-| 20 | `.gitkeep` | 3 |
-| 21 | `.ps1` | 3 |
-| 22 | `.log` | 3 |
+| 19 | `.gitattributes` | 4 |
+| 20 | `.ps1` | 4 |
+| 21 | `.cfg` | 4 |
+| 22 | `.gitkeep` | 3 |
 | 23 | `.onnx` | 3 |
-| 24 | `.gitattributes` | 3 |
-| 25 | `.bat` | 2 |
+| 24 | `.bat` | 2 |
+| 25 | `.jpeg` | 2 |
 
 </details>
 
