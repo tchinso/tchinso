@@ -17,20 +17,20 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-07-11 09:17 UTC**
+> Last refreshed automatically: **2026-07-12 00:30 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 1596749
-    "HTML" : 1317365
+    "JavaScript" : 1620836
+    "HTML" : 1319893
     "Python" : 741620
-    "CSS" : 258654
+    "CSS" : 243861
     "C#" : 96513
     "C" : 33939
-    "PowerShell" : 31214
+    "PowerShell" : 31325
 ```
 
 <details>
@@ -38,13 +38,13 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 1,596,749 | 39.2% |
-| HTML | 1,317,365 | 32.3% |
-| Python | 741,620 | 18.2% |
-| CSS | 258,654 | 6.3% |
+| JavaScript | 1,620,836 | 39.6% |
+| HTML | 1,319,893 | 32.3% |
+| Python | 741,620 | 18.1% |
+| CSS | 243,861 | 6.0% |
 | C# | 96,513 | 2.4% |
 | C | 33,939 | 0.8% |
-| PowerShell | 31,214 | 0.8% |
+| PowerShell | 31,325 | 0.8% |
 
 </details>
 
@@ -54,7 +54,7 @@ pie showData
 pie showData
     title Top file extensions by file count
     ".webp" : 425
-    ".md" : 233
+    ".md" : 234
     ".png" : 92
     ".js" : 91
     ".html" : 69
@@ -69,7 +69,7 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.webp` | 425 |
-| 2 | `.md` | 233 |
+| 2 | `.md` | 234 |
 | 3 | `.png` | 92 |
 | 4 | `.js` | 91 |
 | 5 | `.html` | 69 |
@@ -81,8 +81,8 @@ pie showData
 | 11 | `.css` | 18 |
 | 12 | `.gitignore` | 10 |
 | 13 | `.txt` | 8 |
-| 14 | `.spec` | 7 |
-| 15 | `.yml` | 7 |
+| 14 | `.yml` | 7 |
+| 15 | `.spec` | 7 |
 | 16 | `.mp3` | 7 |
 | 17 | `.ico` | 6 |
 | 18 | `.mjs` | 5 |
