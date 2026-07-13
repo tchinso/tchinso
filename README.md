@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-07-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-07-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-07-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-07-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-07-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,15 +17,15 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-07-12 21:07 UTC**
+> Last refreshed automatically: **2026-07-13 09:40 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 1742512
-    "HTML" : 1322632
+    "JavaScript" : 1889330
+    "HTML" : 1322482
     "Python" : 741620
     "CSS" : 243861
     "C#" : 96513
@@ -38,11 +38,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 1,742,512 | 41.4% |
-| HTML | 1,322,632 | 31.4% |
-| Python | 741,620 | 17.6% |
-| CSS | 243,861 | 5.8% |
-| C# | 96,513 | 2.3% |
+| JavaScript | 1,889,330 | 43.3% |
+| HTML | 1,322,482 | 30.3% |
+| Python | 741,620 | 17.0% |
+| CSS | 243,861 | 5.6% |
+| C# | 96,513 | 2.2% |
 | C | 33,939 | 0.8% |
 | PowerShell | 31,325 | 0.7% |
 
