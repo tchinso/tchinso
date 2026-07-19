@@ -91,6 +91,13 @@ def build_repo_badge_url(repo_name: str, updated: str) -> str:
     return f'https://img.shields.io/static/v1?{query}'
 
 
+def build_summary_card_url(card_name: str) -> str:
+    query = urllib.parse.urlencode({'username': OWNER, 'theme': 'github_dark'})
+    if card_name == 'productive-time':
+        query += '&utcOffset=9'
+    return f'https://github-profile-summary-cards.vercel.app/api/cards/{card_name}?{query}'
+
+
 def extension_for(path_text: str) -> str | None:
     name = Path(path_text).name
     if name.startswith('.') and name.count('.') == 1:
@@ -146,6 +153,16 @@ def generate() -> str:
     refreshed_at = dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
     language_mermaid = build_mermaid_pie('Language ratio by bytes across public repositories', top_languages)
     extension_mermaid = build_mermaid_pie('Top file extensions by file count', top_extensions[:8])
+    summary_cards = {
+        card_name: build_summary_card_url(card_name)
+        for card_name in (
+            'profile-details',
+            'repos-per-language',
+            'most-commit-language',
+            'stats',
+            'productive-time',
+        )
+    }
 
     recent_cards: list[str] = []
     for repo in recent_repos:
@@ -193,10 +210,20 @@ def generate() -> str:
 
 </details>
 
-## Live cards
+## GitHub Profile Summary
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username={OWNER}&theme=github_dark)
-![Profile details](https://github-readme-activity-graph.vercel.app/graph?username={OWNER}&theme=github-dark&hide_border=true)
+<p align="center">
+  <img width="96%" alt="Profile details" src="{summary_cards['profile-details']}" />
+</p>
+<p align="center">
+  <img width="49%" alt="Repositories per language" src="{summary_cards['repos-per-language']}" />
+  <img width="49%" alt="Most commit language" src="{summary_cards['most-commit-language']}" />
+</p>
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="{summary_cards['stats']}" />
+  <img width="49%" alt="Productive time (KST)" src="{summary_cards['productive-time']}" />
+</p>
+
 """
 
 
