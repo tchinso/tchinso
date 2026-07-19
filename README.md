@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-07-19 05:15 UTC**
+> Last refreshed automatically: **2026-07-19 05:21 UTC**
 
 ## Language ratio across my repositories
 
@@ -26,7 +26,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 1906991
     "HTML" : 1323103
-    "Python" : 743225
+    "Python" : 744083
     "CSS" : 244050
     "C#" : 206602
     "C" : 33939
@@ -38,9 +38,9 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 1,906,991 | 42.5% |
+| JavaScript | 1,906,991 | 42.4% |
 | HTML | 1,323,103 | 29.5% |
-| Python | 743,225 | 16.5% |
+| Python | 744,083 | 16.6% |
 | CSS | 244,050 | 5.4% |
 | C# | 206,602 | 4.6% |
 | C | 33,939 | 0.8% |
@@ -96,7 +96,16 @@ pie showData
 
 </details>
 
-## Live cards
+## GitHub Profile Summary
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchinso&theme=github_dark)
-![Profile details](https://github-readme-activity-graph.vercel.app/graph?username=tchinso&theme=github-dark&hide_border=true)
+<p align="center">
+  <img width="96%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchinso&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tchinso&theme=github_dark" />
+  <img width="49%" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchinso&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchinso&theme=github_dark" />
+  <img width="49%" alt="Productive time (KST)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tchinso&theme=github_dark&utcOffset=9" />
+</p>
