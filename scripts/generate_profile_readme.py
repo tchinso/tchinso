@@ -195,8 +195,8 @@ def generate() -> str:
 
 ## Live cards
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={OWNER}&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username={OWNER}&theme=github_dark)
+![Profile details](https://github-readme-activity-graph.vercel.app/graph?username={OWNER}&theme=github-dark&hide_border=true)
 """
 
 
