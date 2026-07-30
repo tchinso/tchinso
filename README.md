@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-07-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-07-29&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-07-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-07-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-07-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,14 +17,14 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-07-28 21:21 UTC**
+> Last refreshed automatically: **2026-07-30 21:21 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 2025916
+    "JavaScript" : 2033926
     "HTML" : 1331052
     "Python" : 744083
     "CSS" : 255557
@@ -38,7 +38,7 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 2,025,916 | 43.6% |
+| JavaScript | 2,033,926 | 43.7% |
 | HTML | 1,331,052 | 28.6% |
 | Python | 744,083 | 16.0% |
 | CSS | 255,557 | 5.5% |
@@ -79,8 +79,8 @@ pie showData
 | 9 | `.glb` | 31 |
 | 10 | `.json` | 24 |
 | 11 | `.css` | 19 |
-| 12 | `.txt` | 12 |
-| 13 | `.gitignore` | 12 |
+| 12 | `.gitignore` | 12 |
+| 13 | `.txt` | 12 |
 | 14 | `.cs` | 9 |
 | 15 | `.mp3` | 7 |
 | 16 | `.yml` | 7 |
