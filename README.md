@@ -1,23 +1,23 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/Grimpan"><img alt="Grimpan" src="https://img.shields.io/static/v1?label=Grimpan&message=Updated+2026-08-02&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-08-02&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-08-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-08-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Grimpan"><img alt="Grimpan" src="https://img.shields.io/static/v1?label=Grimpan&message=Updated+2026-07-31&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-07-31&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-07-29&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-07-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-07-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-07-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-07-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/TsukuruSaveEditor"><img alt="TsukuruSaveEditor" src="https://img.shields.io/static/v1?label=TsukuruSaveEditor&message=Updated+2026-07-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-07-15&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-07-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/BaiduRenamer"><img alt="BaiduRenamer" src="https://img.shields.io/static/v1?label=BaiduRenamer&message=Updated+2026-07-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-01 09:12 UTC**
+> Last refreshed automatically: **2026-08-02 11:32 UTC**
 
 ## Language ratio across my repositories
 
@@ -25,9 +25,9 @@
 pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 2049774
-    "HTML" : 1332674
+    "HTML" : 1340248
     "Python" : 744083
-    "C#" : 402091
+    "C#" : 430939
     "CSS" : 283072
     "TypeScript" : 170611
     "C" : 33939
@@ -38,10 +38,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 2,049,774 | 40.6% |
-| HTML | 1,332,674 | 26.4% |
-| Python | 744,083 | 14.7% |
-| C# | 402,091 | 8.0% |
+| JavaScript | 2,049,774 | 40.3% |
+| HTML | 1,340,248 | 26.3% |
+| Python | 744,083 | 14.6% |
+| C# | 430,939 | 8.5% |
 | CSS | 283,072 | 5.6% |
 | TypeScript | 170,611 | 3.4% |
 | C | 33,939 | 0.7% |
@@ -78,7 +78,7 @@ pie showData
 | 8 | `.py` | 39 |
 | 9 | `.glb` | 31 |
 | 10 | `.json` | 27 |
-| 11 | `.cs` | 25 |
+| 11 | `.cs` | 26 |
 | 12 | `.css` | 20 |
 | 13 | `.gitignore` | 14 |
 | 14 | `.txt` | 12 |
@@ -91,8 +91,8 @@ pie showData
 | 21 | `.spec` | 7 |
 | 22 | `.gitattributes` | 5 |
 | 23 | `.ps1` | 5 |
-| 24 | `.yaml` | 4 |
-| 25 | `.exe` | 4 |
+| 24 | `.exe` | 4 |
+| 25 | `.yaml` | 4 |
 
 </details>
 
