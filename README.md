@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-10 11:42 UTC**
+> Last refreshed automatically: **2026-08-11 21:02 UTC**
 
 ## Language ratio across my repositories
 
@@ -85,9 +85,9 @@ pie showData
 | 15 | `.mjs` | 14 |
 | 16 | `.ts` | 8 |
 | 17 | `.jpg` | 8 |
-| 18 | `.spec` | 7 |
-| 19 | `.ico` | 7 |
-| 20 | `.yml` | 7 |
+| 18 | `.yml` | 7 |
+| 19 | `.spec` | 7 |
+| 20 | `.ico` | 7 |
 | 21 | `.mp3` | 7 |
 | 22 | `.gitattributes` | 6 |
 | 23 | `.ps1` | 5 |
