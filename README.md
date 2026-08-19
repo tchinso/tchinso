@@ -1,12 +1,12 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-08-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-08-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-18&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-08-18&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/commi-260817"><img alt="commi-260817" src="https://img.shields.io/static/v1?label=commi-260817&message=Updated+2026-08-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-08-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-08-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-08-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-08-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-08-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-08-02&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-18 20:38 UTC**
+> Last refreshed automatically: **2026-08-19 10:27 UTC**
 
 ## Language ratio across my repositories
 
@@ -26,7 +26,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 3948777
     "HTML" : 1640614
-    "Python" : 941649
+    "Python" : 942228
     "CSS" : 557589
     "C#" : 430939
     "PowerShell" : 45155
@@ -40,7 +40,7 @@ pie showData
 | --- | ---: | ---: |
 | JavaScript | 3,948,777 | 52.0% |
 | HTML | 1,640,614 | 21.6% |
-| Python | 941,649 | 12.4% |
+| Python | 942,228 | 12.4% |
 | CSS | 557,589 | 7.3% |
 | C# | 430,939 | 5.7% |
 | PowerShell | 45,155 | 0.6% |
@@ -84,11 +84,11 @@ pie showData
 | 14 | `.gitignore` | 16 |
 | 15 | `.txt` | 16 |
 | 16 | `.mjs` | 15 |
-| 17 | `.yml` | 8 |
+| 17 | `.spec` | 8 |
 | 18 | `.ico` | 8 |
-| 19 | `.spec` | 8 |
-| 20 | `.mp3` | 7 |
-| 21 | `.gitattributes` | 7 |
+| 19 | `.yml` | 8 |
+| 20 | `.gitattributes` | 7 |
+| 21 | `.mp3` | 7 |
 | 22 | `.ps1` | 6 |
 | 23 | `.wasm` | 4 |
 | 24 | `.cfg` | 4 |
