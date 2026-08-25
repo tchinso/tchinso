@@ -1,9 +1,9 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/RaisingSim"><img alt="RaisingSim" src="https://img.shields.io/static/v1?label=RaisingSim&message=Updated+2026-08-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/agent-md"><img alt="agent-md" src="https://img.shields.io/static/v1?label=agent-md&message=Updated+2026-08-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/AtoonStoryArchive"><img alt="AtoonStoryArchive" src="https://img.shields.io/static/v1?label=AtoonStoryArchive&message=Updated+2026-08-20&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-08-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-08-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-23 20:37 UTC**
+> Last refreshed automatically: **2026-08-25 01:28 UTC**
 
 ## Language ratio across my repositories
 
@@ -25,7 +25,7 @@
 pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 3987350
-    "HTML" : 1676755
+    "HTML" : 1708241
     "Python" : 942228
     "CSS" : 601739
     "C#" : 430939
@@ -38,8 +38,8 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 3,987,350 | 51.0% |
-| HTML | 1,676,755 | 21.4% |
+| JavaScript | 3,987,350 | 50.8% |
+| HTML | 1,708,241 | 21.8% |
 | Python | 942,228 | 12.0% |
 | CSS | 601,739 | 7.7% |
 | C# | 430,939 | 5.5% |
@@ -58,7 +58,7 @@ pie showData
     ".webp" : 512
     ".md" : 253
     ".js" : 142
-    ".html" : 74
+    ".html" : 75
     ".json" : 64
     ".svg" : 62
 ```
@@ -73,7 +73,7 @@ pie showData
 | 3 | `.webp` | 512 |
 | 4 | `.md` | 253 |
 | 5 | `.js` | 142 |
-| 6 | `.html` | 74 |
+| 6 | `.html` | 75 |
 | 7 | `.json` | 64 |
 | 8 | `.svg` | 62 |
 | 9 | `.py` | 52 |
