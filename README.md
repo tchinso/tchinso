@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-08-30&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/RaisingSim"><img alt="RaisingSim" src="https://img.shields.io/static/v1?label=RaisingSim&message=Updated+2026-08-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/agent-md"><img alt="agent-md" src="https://img.shields.io/static/v1?label=agent-md&message=Updated+2026-08-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,12 +13,11 @@
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-08-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-08-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-08-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-08-02&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-28 04:21 UTC**
+> Last refreshed automatically: **2026-08-30 22:43 UTC**
 
 ## Language ratio across my repositories
 
@@ -59,7 +59,7 @@ pie showData
     ".md" : 253
     ".js" : 142
     ".html" : 75
-    ".json" : 64
+    ".json" : 65
     ".svg" : 62
 ```
 
@@ -74,7 +74,7 @@ pie showData
 | 4 | `.md` | 253 |
 | 5 | `.js` | 142 |
 | 6 | `.html` | 75 |
-| 7 | `.json` | 64 |
+| 7 | `.json` | 65 |
 | 8 | `.svg` | 62 |
 | 9 | `.py` | 52 |
 | 10 | `.gif` | 48 |
@@ -91,8 +91,8 @@ pie showData
 | 21 | `.ico` | 8 |
 | 22 | `.mp3` | 7 |
 | 23 | `.ps1` | 6 |
-| 24 | `.yaml` | 4 |
-| 25 | `.wasm` | 4 |
+| 24 | `.exe` | 4 |
+| 25 | `.yaml` | 4 |
 
 </details>
 
