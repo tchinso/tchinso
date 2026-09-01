@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-09-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-08-30&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/RaisingSim"><img alt="RaisingSim" src="https://img.shields.io/static/v1?label=RaisingSim&message=Updated+2026-08-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,22 +13,21 @@
 <tr><td align="center"><a href="https://github.com/tchinso/commi-260817"><img alt="commi-260817" src="https://img.shields.io/static/v1?label=commi-260817&message=Updated+2026-08-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-08-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-08-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/WebTrans"><img alt="WebTrans" src="https://img.shields.io/static/v1?label=WebTrans&message=Updated+2026-08-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-08-30 22:43 UTC**
+> Last refreshed automatically: **2026-09-01 22:35 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 3987350
-    "HTML" : 1708241
+    "JavaScript" : 4026217
+    "HTML" : 1711293
     "Python" : 942228
-    "CSS" : 601739
+    "CSS" : 605262
     "C#" : 430939
     "TypeScript" : 100150
     "PowerShell" : 45155
@@ -38,10 +38,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 3,987,350 | 50.8% |
-| HTML | 1,708,241 | 21.8% |
-| Python | 942,228 | 12.0% |
-| CSS | 601,739 | 7.7% |
+| JavaScript | 4,026,217 | 51.0% |
+| HTML | 1,711,293 | 21.7% |
+| Python | 942,228 | 11.9% |
+| CSS | 605,262 | 7.7% |
 | C# | 430,939 | 5.5% |
 | TypeScript | 100,150 | 1.3% |
 | PowerShell | 45,155 | 0.6% |
@@ -57,7 +57,7 @@ pie showData
     ".png" : 690
     ".webp" : 512
     ".md" : 253
-    ".js" : 142
+    ".js" : 145
     ".html" : 75
     ".json" : 65
     ".svg" : 62
@@ -72,7 +72,7 @@ pie showData
 | 2 | `.png` | 690 |
 | 3 | `.webp` | 512 |
 | 4 | `.md` | 253 |
-| 5 | `.js` | 142 |
+| 5 | `.js` | 145 |
 | 6 | `.html` | 75 |
 | 7 | `.json` | 65 |
 | 8 | `.svg` | 62 |
@@ -81,14 +81,14 @@ pie showData
 | 11 | `.sql` | 38 |
 | 12 | `.glb` | 31 |
 | 13 | `.cs` | 26 |
-| 14 | `.css` | 23 |
+| 14 | `.css` | 24 |
 | 15 | `.gitignore` | 19 |
 | 16 | `.mjs` | 16 |
 | 17 | `.txt` | 16 |
 | 18 | `.yml` | 10 |
-| 19 | `.gitattributes` | 8 |
-| 20 | `.spec` | 8 |
-| 21 | `.ico` | 8 |
+| 19 | `.ico` | 8 |
+| 20 | `.gitattributes` | 8 |
+| 21 | `.spec` | 8 |
 | 22 | `.mp3` | 7 |
 | 23 | `.ps1` | 6 |
 | 24 | `.exe` | 4 |
