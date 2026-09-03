@@ -1,6 +1,8 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-09-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-09-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-09-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-08-30&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-08-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -11,23 +13,21 @@
 <tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-08-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-08-18&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/commi-260817"><img alt="commi-260817" src="https://img.shields.io/static/v1?label=commi-260817&message=Updated+2026-08-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-08-16&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-08-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-01 22:35 UTC**
+> Last refreshed automatically: **2026-09-03 22:33 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 4026217
-    "HTML" : 1711293
+    "JavaScript" : 4108503
+    "HTML" : 1854093
     "Python" : 942228
-    "CSS" : 605262
+    "CSS" : 645606
     "C#" : 430939
     "TypeScript" : 100150
     "PowerShell" : 45155
@@ -38,12 +38,12 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 4,026,217 | 51.0% |
-| HTML | 1,711,293 | 21.7% |
-| Python | 942,228 | 11.9% |
-| CSS | 605,262 | 7.7% |
-| C# | 430,939 | 5.5% |
-| TypeScript | 100,150 | 1.3% |
+| JavaScript | 4,108,503 | 50.2% |
+| HTML | 1,854,093 | 22.6% |
+| Python | 942,228 | 11.5% |
+| CSS | 645,606 | 7.9% |
+| C# | 430,939 | 5.3% |
+| TypeScript | 100,150 | 1.2% |
 | PowerShell | 45,155 | 0.6% |
 
 </details>
@@ -56,11 +56,11 @@ pie showData
     ".m4a" : 6061
     ".png" : 690
     ".webp" : 512
-    ".md" : 253
-    ".js" : 145
-    ".html" : 75
-    ".json" : 65
+    ".js" : 163
+    ".html" : 77
+    ".json" : 66
     ".svg" : 62
+    ".md" : 56
 ```
 
 <details>
@@ -71,20 +71,20 @@ pie showData
 | 1 | `.m4a` | 6,061 |
 | 2 | `.png` | 690 |
 | 3 | `.webp` | 512 |
-| 4 | `.md` | 253 |
-| 5 | `.js` | 145 |
-| 6 | `.html` | 75 |
-| 7 | `.json` | 65 |
-| 8 | `.svg` | 62 |
+| 4 | `.js` | 163 |
+| 5 | `.html` | 77 |
+| 6 | `.json` | 66 |
+| 7 | `.svg` | 62 |
+| 8 | `.md` | 56 |
 | 9 | `.py` | 52 |
 | 10 | `.gif` | 48 |
-| 11 | `.sql` | 38 |
+| 11 | `.sql` | 41 |
 | 12 | `.glb` | 31 |
-| 13 | `.cs` | 26 |
-| 14 | `.css` | 24 |
-| 15 | `.gitignore` | 19 |
-| 16 | `.mjs` | 16 |
-| 17 | `.txt` | 16 |
+| 13 | `.css` | 26 |
+| 14 | `.cs` | 26 |
+| 15 | `.gitignore` | 20 |
+| 16 | `.txt` | 16 |
+| 17 | `.mjs` | 15 |
 | 18 | `.yml` | 10 |
 | 19 | `.ico` | 8 |
 | 20 | `.gitattributes` | 8 |
