@@ -1,8 +1,8 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-09-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-09-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-09-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-09-05&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-09-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStilllJsonEditor"><img alt="OpenStilllJsonEditor" src="https://img.shields.io/static/v1?label=OpenStilllJsonEditor&message=Updated+2026-09-04&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,20 +17,20 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-06 22:07 UTC**
+> Last refreshed automatically: **2026-09-08 22:38 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 5261030
-    "HTML" : 1857220
+    "JavaScript" : 5310638
+    "HTML" : 1744569
     "Python" : 949579
-    "CSS" : 657448
+    "CSS" : 663683
     "C#" : 430939
     "TypeScript" : 100150
-    "PowerShell" : 45155
+    "PLpgSQL" : 58450
 ```
 
 <details>
@@ -38,13 +38,13 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 5,261,030 | 56.2% |
-| HTML | 1,857,220 | 19.8% |
-| Python | 949,579 | 10.1% |
-| CSS | 657,448 | 7.0% |
+| JavaScript | 5,310,638 | 56.9% |
+| HTML | 1,744,569 | 18.7% |
+| Python | 949,579 | 10.2% |
+| CSS | 663,683 | 7.1% |
 | C# | 430,939 | 4.6% |
 | TypeScript | 100,150 | 1.1% |
-| PowerShell | 45,155 | 0.5% |
+| PLpgSQL | 58,450 | 0.6% |
 
 </details>
 
@@ -56,7 +56,7 @@ pie showData
     ".m4a" : 6061
     ".png" : 484
     ".webp" : 425
-    ".js" : 172
+    ".js" : 181
     ".html" : 77
     ".json" : 67
     ".svg" : 63
@@ -71,14 +71,14 @@ pie showData
 | 1 | `.m4a` | 6,061 |
 | 2 | `.png` | 484 |
 | 3 | `.webp` | 425 |
-| 4 | `.js` | 172 |
+| 4 | `.js` | 181 |
 | 5 | `.html` | 77 |
 | 6 | `.json` | 67 |
 | 7 | `.svg` | 63 |
 | 8 | `.md` | 57 |
 | 9 | `.py` | 53 |
 | 10 | `.gif` | 48 |
-| 11 | `.sql` | 42 |
+| 11 | `.sql` | 44 |
 | 12 | `.glb` | 32 |
 | 13 | `.css` | 26 |
 | 14 | `.cs` | 26 |
