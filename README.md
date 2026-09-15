@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-09-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-09-15&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/stash-plugins"><img alt="stash-plugins" src="https://img.shields.io/static/v1?label=stash-plugins&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,7 +17,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-13 22:23 UTC**
+> Last refreshed automatically: **2026-09-15 22:52 UTC**
 
 ## Language ratio across my repositories
 
@@ -26,7 +26,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 5325543
     "HTML" : 1744524
-    "Python" : 1058557
+    "Python" : 1180516
     "CSS" : 663683
     "C#" : 430939
     "TypeScript" : 100150
@@ -38,12 +38,12 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 5,325,543 | 56.2% |
-| HTML | 1,744,524 | 18.4% |
-| Python | 1,058,557 | 11.2% |
-| CSS | 663,683 | 7.0% |
-| C# | 430,939 | 4.6% |
-| TypeScript | 100,150 | 1.1% |
+| JavaScript | 5,325,543 | 55.5% |
+| HTML | 1,744,524 | 18.2% |
+| Python | 1,180,516 | 12.3% |
+| CSS | 663,683 | 6.9% |
+| C# | 430,939 | 4.5% |
+| TypeScript | 100,150 | 1.0% |
 | PLpgSQL | 58,450 | 0.6% |
 
 </details>
@@ -59,8 +59,8 @@ pie showData
     ".js" : 184
     ".html" : 77
     ".json" : 67
+    ".py" : 64
     ".svg" : 63
-    ".md" : 58
 ```
 
 <details>
@@ -74,9 +74,9 @@ pie showData
 | 4 | `.js` | 184 |
 | 5 | `.html` | 77 |
 | 6 | `.json` | 67 |
-| 7 | `.svg` | 63 |
-| 8 | `.md` | 58 |
-| 9 | `.py` | 58 |
+| 7 | `.py` | 64 |
+| 8 | `.svg` | 63 |
+| 9 | `.md` | 58 |
 | 10 | `.gif` | 48 |
 | 11 | `.sql` | 44 |
 | 12 | `.glb` | 32 |
