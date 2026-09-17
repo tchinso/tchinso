@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-09-15&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-09-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/stash-plugins"><img alt="stash-plugins" src="https://img.shields.io/static/v1?label=stash-plugins&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ReazonSubtitle"><img alt="ReazonSubtitle" src="https://img.shields.io/static/v1?label=ReazonSubtitle&message=Updated+2026-09-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,20 +17,20 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-15 22:52 UTC**
+> Last refreshed automatically: **2026-09-17 22:50 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 5325543
+    "JavaScript" : 5329630
     "HTML" : 1744524
-    "Python" : 1180516
+    "Python" : 1272146
     "CSS" : 663683
     "C#" : 430939
     "TypeScript" : 100150
-    "PLpgSQL" : 58450
+    "PowerShell" : 63587
 ```
 
 <details>
@@ -38,13 +38,13 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 5,325,543 | 55.5% |
-| HTML | 1,744,524 | 18.2% |
-| Python | 1,180,516 | 12.3% |
-| CSS | 663,683 | 6.9% |
-| C# | 430,939 | 4.5% |
+| JavaScript | 5,329,630 | 55.0% |
+| HTML | 1,744,524 | 18.0% |
+| Python | 1,272,146 | 13.1% |
+| CSS | 663,683 | 6.8% |
+| C# | 430,939 | 4.4% |
 | TypeScript | 100,150 | 1.0% |
-| PLpgSQL | 58,450 | 0.6% |
+| PowerShell | 63,587 | 0.7% |
 
 </details>
 
@@ -58,8 +58,8 @@ pie showData
     ".webp" : 425
     ".js" : 184
     ".html" : 77
+    ".py" : 70
     ".json" : 67
-    ".py" : 64
     ".svg" : 63
 ```
 
@@ -73,8 +73,8 @@ pie showData
 | 3 | `.webp` | 425 |
 | 4 | `.js` | 184 |
 | 5 | `.html` | 77 |
-| 6 | `.json` | 67 |
-| 7 | `.py` | 64 |
+| 6 | `.py` | 70 |
+| 7 | `.json` | 67 |
 | 8 | `.svg` | 63 |
 | 9 | `.md` | 58 |
 | 10 | `.gif` | 48 |
