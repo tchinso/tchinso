@@ -1,8 +1,8 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-09-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-09-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-09-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/VidEdit"><img alt="VidEdit" src="https://img.shields.io/static/v1?label=VidEdit&message=Updated+2026-09-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-09-20&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-09-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -17,17 +17,17 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-22 22:55 UTC**
+> Last refreshed automatically: **2026-09-24 23:11 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 5518620
+    "JavaScript" : 5519211
     "HTML" : 1689603
     "Python" : 1477672
-    "CSS" : 665483
+    "CSS" : 665581
     "C#" : 610860
     "TypeScript" : 100150
     "PowerShell" : 71055
@@ -38,10 +38,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 5,518,620 | 53.9% |
+| JavaScript | 5,519,211 | 53.9% |
 | HTML | 1,689,603 | 16.5% |
 | Python | 1,477,672 | 14.4% |
-| CSS | 665,483 | 6.5% |
+| CSS | 665,581 | 6.5% |
 | C# | 610,860 | 6.0% |
 | TypeScript | 100,150 | 1.0% |
 | PowerShell | 71,055 | 0.7% |
@@ -86,9 +86,9 @@ pie showData
 | 16 | `.txt` | 21 |
 | 17 | `.mjs` | 21 |
 | 18 | `.yml` | 14 |
-| 19 | `.spec` | 8 |
-| 20 | `.ico` | 8 |
-| 21 | `.gitattributes` | 8 |
+| 19 | `.gitattributes` | 8 |
+| 20 | `.spec` | 8 |
+| 21 | `.ico` | 8 |
 | 22 | `.ps1` | 7 |
 | 23 | `.mp3` | 7 |
 | 24 | `.csproj` | 5 |
