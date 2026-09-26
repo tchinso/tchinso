@@ -13,11 +13,14 @@
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-09-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-09-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-09-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/RaisingSim"><img alt="RaisingSim" src="https://img.shields.io/static/v1?label=RaisingSim&message=Updated+2026-08-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/agent-md"><img alt="agent-md" src="https://img.shields.io/static/v1?label=agent-md&message=Updated+2026-08-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/AtoonStoryArchive"><img alt="AtoonStoryArchive" src="https://img.shields.io/static/v1?label=AtoonStoryArchive&message=Updated+2026-08-20&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-24 23:11 UTC**
+> Last refreshed automatically: **2026-09-26 19:25 UTC**
 
 ## Language ratio across my repositories
 
@@ -26,11 +29,14 @@ pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 5519211
     "HTML" : 1689603
-    "Python" : 1477672
+    "Python" : 1477673
     "CSS" : 665581
     "C#" : 610860
     "TypeScript" : 100150
     "PowerShell" : 71055
+    "PLpgSQL" : 58450
+    "C" : 33939
+    "Rust" : 8282
 ```
 
 <details>
@@ -40,11 +46,14 @@ pie showData
 | --- | ---: | ---: |
 | JavaScript | 5,519,211 | 53.9% |
 | HTML | 1,689,603 | 16.5% |
-| Python | 1,477,672 | 14.4% |
+| Python | 1,477,673 | 14.4% |
 | CSS | 665,581 | 6.5% |
 | C# | 610,860 | 6.0% |
 | TypeScript | 100,150 | 1.0% |
 | PowerShell | 71,055 | 0.7% |
+| PLpgSQL | 58,450 | 0.6% |
+| C | 33,939 | 0.3% |
+| Rust | 8,282 | 0.1% |
 
 </details>
 
@@ -93,6 +102,11 @@ pie showData
 | 23 | `.mp3` | 7 |
 | 24 | `.csproj` | 5 |
 | 25 | `.wasm` | 5 |
+| 26 | `.cfg` | 4 |
+| 27 | `.exe` | 4 |
+| 28 | `.yaml` | 4 |
+| 29 | `.onnx` | 3 |
+| 30 | `.jpg` | 3 |
 
 </details>
 
