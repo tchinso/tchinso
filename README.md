@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-09-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-09-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-09-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/VidEdit"><img alt="VidEdit" src="https://img.shields.io/static/v1?label=VidEdit&message=Updated+2026-09-21&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -12,7 +13,6 @@
 <tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-09-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-09-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-09-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-09-01&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/RaisingSim"><img alt="RaisingSim" src="https://img.shields.io/static/v1?label=RaisingSim&message=Updated+2026-08-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/agent-md"><img alt="agent-md" src="https://img.shields.io/static/v1?label=agent-md&message=Updated+2026-08-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/AtoonStoryArchive"><img alt="AtoonStoryArchive" src="https://img.shields.io/static/v1?label=AtoonStoryArchive&message=Updated+2026-08-20&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,17 +20,17 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-09-26 19:25 UTC**
+> Last refreshed automatically: **2026-09-27 23:01 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 5519211
-    "HTML" : 1689603
+    "JavaScript" : 5537959
+    "HTML" : 1690489
     "Python" : 1477673
-    "CSS" : 665581
+    "CSS" : 665660
     "C#" : 610860
     "TypeScript" : 100150
     "PowerShell" : 71055
@@ -44,10 +44,10 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 5,519,211 | 53.9% |
-| HTML | 1,689,603 | 16.5% |
+| JavaScript | 5,537,959 | 54.0% |
+| HTML | 1,690,489 | 16.5% |
 | Python | 1,477,673 | 14.4% |
-| CSS | 665,581 | 6.5% |
+| CSS | 665,660 | 6.5% |
 | C# | 610,860 | 6.0% |
 | TypeScript | 100,150 | 1.0% |
 | PowerShell | 71,055 | 0.7% |
@@ -65,7 +65,7 @@ pie showData
     ".m4a" : 6061
     ".png" : 484
     ".webp" : 425
-    ".js" : 189
+    ".js" : 191
     ".py" : 79
     ".html" : 76
     ".json" : 67
@@ -80,7 +80,7 @@ pie showData
 | 1 | `.m4a` | 6,061 |
 | 2 | `.png` | 484 |
 | 3 | `.webp` | 425 |
-| 4 | `.js` | 189 |
+| 4 | `.js` | 191 |
 | 5 | `.py` | 79 |
 | 6 | `.html` | 76 |
 | 7 | `.json` | 67 |
@@ -95,9 +95,9 @@ pie showData
 | 16 | `.txt` | 21 |
 | 17 | `.mjs` | 21 |
 | 18 | `.yml` | 14 |
-| 19 | `.gitattributes` | 8 |
-| 20 | `.spec` | 8 |
-| 21 | `.ico` | 8 |
+| 19 | `.ico` | 8 |
+| 20 | `.gitattributes` | 8 |
+| 21 | `.spec` | 8 |
 | 22 | `.ps1` | 7 |
 | 23 | `.mp3` | 7 |
 | 24 | `.csproj` | 5 |
@@ -105,8 +105,8 @@ pie showData
 | 26 | `.cfg` | 4 |
 | 27 | `.exe` | 4 |
 | 28 | `.yaml` | 4 |
-| 29 | `.onnx` | 3 |
-| 30 | `.jpg` | 3 |
+| 29 | `.jpg` | 3 |
+| 30 | `.onnx` | 3 |
 
 </details>
 
