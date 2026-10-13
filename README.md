@@ -1,15 +1,15 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/My-3D-assets"><img alt="My-3D-assets" src="https://img.shields.io/static/v1?label=My-3D-assets&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/UnlockCat"><img alt="UnlockCat" src="https://img.shields.io/static/v1?label=UnlockCat&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-10-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-10-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/UnlockCat"><img alt="UnlockCat" src="https://img.shields.io/static/v1?label=UnlockCat&message=Updated+2026-10-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/SubtitleFinder"><img alt="SubtitleFinder" src="https://img.shields.io/static/v1?label=SubtitleFinder&message=Updated+2026-10-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-10-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-10-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/My-3D-assets"><img alt="My-3D-assets" src="https://img.shields.io/static/v1?label=My-3D-assets&message=Updated+2026-10-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-10-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-10-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-10-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-10-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,18 +20,18 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-10-11 23:38 UTC**
+> Last refreshed automatically: **2026-10-13 23:43 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 7016367
-    "Python" : 2315160
-    "HTML" : 1162513
-    "C#" : 752157
-    "CSS" : 723817
+    "JavaScript" : 7052755
+    "Python" : 2329849
+    "HTML" : 1163435
+    "C#" : 755944
+    "CSS" : 725021
     "TypeScript" : 100150
     "PLpgSQL" : 99830
     "PowerShell" : 81175
@@ -44,11 +44,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 7,016,367 | 57.0% |
-| Python | 2,315,160 | 18.8% |
-| HTML | 1,162,513 | 9.4% |
-| C# | 752,157 | 6.1% |
-| CSS | 723,817 | 5.9% |
+| JavaScript | 7,052,755 | 57.0% |
+| Python | 2,329,849 | 18.8% |
+| HTML | 1,163,435 | 9.4% |
+| C# | 755,944 | 6.1% |
+| CSS | 725,021 | 5.9% |
 | TypeScript | 100,150 | 0.8% |
 | PLpgSQL | 99,830 | 0.8% |
 | PowerShell | 81,175 | 0.7% |
@@ -63,9 +63,9 @@ pie showData
 pie showData
     title Top file extensions by file count
     ".m4a" : 6061
-    ".png" : 564
-    ".webp" : 466
-    ".js" : 300
+    ".png" : 565
+    ".webp" : 467
+    ".js" : 301
     ".py" : 132
     ".json" : 95
     ".html" : 86
@@ -78,18 +78,18 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.m4a` | 6,061 |
-| 2 | `.png` | 564 |
-| 3 | `.webp` | 466 |
-| 4 | `.js` | 300 |
+| 2 | `.png` | 565 |
+| 3 | `.webp` | 467 |
+| 4 | `.js` | 301 |
 | 5 | `.py` | 132 |
 | 6 | `.json` | 95 |
 | 7 | `.html` | 86 |
 | 8 | `.md` | 77 |
 | 9 | `.svg` | 63 |
 | 10 | `.gif` | 52 |
-| 11 | `.cs` | 47 |
-| 12 | `.sql` | 47 |
-| 13 | `.glb` | 46 |
+| 11 | `.glb` | 47 |
+| 12 | `.cs` | 47 |
+| 13 | `.sql` | 47 |
 | 14 | `.css` | 38 |
 | 15 | `.mjs` | 32 |
 | 16 | `.txt` | 30 |
@@ -98,8 +98,8 @@ pie showData
 | 19 | `.yml` | 15 |
 | 20 | `.gitattributes` | 10 |
 | 21 | `.ico` | 9 |
-| 22 | `.ps1` | 9 |
-| 23 | `.csproj` | 9 |
+| 22 | `.csproj` | 9 |
+| 23 | `.ps1` | 9 |
 | 24 | `.spec` | 8 |
 | 25 | `.cjs` | 7 |
 | 26 | `.mp3` | 7 |
