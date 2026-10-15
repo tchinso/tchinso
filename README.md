@@ -1,13 +1,13 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/SubtitleFinder"><img alt="SubtitleFinder" src="https://img.shields.io/static/v1?label=SubtitleFinder&message=Updated+2026-10-14&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/My-3D-assets"><img alt="My-3D-assets" src="https://img.shields.io/static/v1?label=My-3D-assets&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/UnlockCat"><img alt="UnlockCat" src="https://img.shields.io/static/v1?label=UnlockCat&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MeridianPoints"><img alt="MeridianPoints" src="https://img.shields.io/static/v1?label=MeridianPoints&message=Updated+2026-10-12&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-10-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-10-11&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/SubtitleFinder"><img alt="SubtitleFinder" src="https://img.shields.io/static/v1?label=SubtitleFinder&message=Updated+2026-10-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MyFilter"><img alt="MyFilter" src="https://img.shields.io/static/v1?label=MyFilter&message=Updated+2026-10-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-10-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-10-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,16 +20,16 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-10-13 23:43 UTC**
+> Last refreshed automatically: **2026-10-15 23:03 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 7052755
+    "JavaScript" : 7057860
     "Python" : 2329849
-    "HTML" : 1163435
+    "HTML" : 1163710
     "C#" : 755944
     "CSS" : 725021
     "TypeScript" : 100150
@@ -44,9 +44,9 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 7,052,755 | 57.0% |
+| JavaScript | 7,057,860 | 57.0% |
 | Python | 2,329,849 | 18.8% |
-| HTML | 1,163,435 | 9.4% |
+| HTML | 1,163,710 | 9.4% |
 | C# | 755,944 | 6.1% |
 | CSS | 725,021 | 5.9% |
 | TypeScript | 100,150 | 0.8% |
@@ -103,8 +103,8 @@ pie showData
 | 24 | `.spec` | 8 |
 | 25 | `.cjs` | 7 |
 | 26 | `.mp3` | 7 |
-| 27 | `.woff2` | 6 |
-| 28 | `.yaml` | 6 |
+| 27 | `.yaml` | 6 |
+| 28 | `.woff2` | 6 |
 | 29 | `.wasm` | 5 |
 | 30 | `.ttf` | 4 |
 
