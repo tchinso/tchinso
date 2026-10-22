@@ -1,6 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-10-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-10-20&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-10-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -15,22 +16,21 @@
 <tr><td align="center"><a href="https://github.com/tchinso/PersonalWiki"><img alt="PersonalWiki" src="https://img.shields.io/static/v1?label=PersonalWiki&message=Updated+2026-10-08&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-10-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/mikuwalk"><img alt="mikuwalk" src="https://img.shields.io/static/v1?label=mikuwalk&message=Updated+2026-10-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-09-30&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-10-20 23:10 UTC**
+> Last refreshed automatically: **2026-10-22 23:21 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 7146242
-    "Python" : 2582795
-    "HTML" : 1169866
-    "CSS" : 723617
+    "JavaScript" : 8922798
+    "Python" : 2884146
+    "HTML" : 1298594
+    "CSS" : 725603
     "C#" : 680408
     "TypeScript" : 100150
     "PLpgSQL" : 99830
@@ -44,14 +44,14 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 7,146,242 | 56.5% |
-| Python | 2,582,795 | 20.4% |
-| HTML | 1,169,866 | 9.2% |
-| CSS | 723,617 | 5.7% |
-| C# | 680,408 | 5.4% |
-| TypeScript | 100,150 | 0.8% |
-| PLpgSQL | 99,830 | 0.8% |
-| PowerShell | 83,120 | 0.7% |
+| JavaScript | 8,922,798 | 60.0% |
+| Python | 2,884,146 | 19.4% |
+| HTML | 1,298,594 | 8.7% |
+| CSS | 725,603 | 4.9% |
+| C# | 680,408 | 4.6% |
+| TypeScript | 100,150 | 0.7% |
+| PLpgSQL | 99,830 | 0.7% |
+| PowerShell | 83,120 | 0.6% |
 | C | 56,378 | 0.4% |
 | Rust | 8,282 | 0.1% |
 
@@ -63,13 +63,13 @@ pie showData
 pie showData
     title Top file extensions by file count
     ".m4a" : 6061
-    ".png" : 562
+    ".png" : 566
     ".webp" : 467
-    ".js" : 300
-    ".py" : 152
-    ".json" : 94
-    ".html" : 85
-    ".md" : 83
+    ".js" : 307
+    ".py" : 160
+    ".json" : 96
+    ".html" : 86
+    ".md" : 85
 ```
 
 <details>
@@ -78,30 +78,30 @@ pie showData
 | Rank | Extension | Files |
 | --- | --- | ---: |
 | 1 | `.m4a` | 6,061 |
-| 2 | `.png` | 562 |
+| 2 | `.png` | 566 |
 | 3 | `.webp` | 467 |
-| 4 | `.js` | 300 |
-| 5 | `.py` | 152 |
-| 6 | `.json` | 94 |
-| 7 | `.html` | 85 |
-| 8 | `.md` | 83 |
+| 4 | `.js` | 307 |
+| 5 | `.py` | 160 |
+| 6 | `.json` | 96 |
+| 7 | `.html` | 86 |
+| 8 | `.md` | 85 |
 | 9 | `.svg` | 63 |
 | 10 | `.gif` | 52 |
 | 11 | `.glb` | 47 |
 | 12 | `.sql` | 47 |
 | 13 | `.cs` | 46 |
 | 14 | `.css` | 36 |
-| 15 | `.mjs` | 32 |
+| 15 | `.mjs` | 35 |
 | 16 | `.gitignore` | 27 |
 | 17 | `.txt` | 27 |
 | 18 | `.jpg` | 17 |
 | 19 | `.yml` | 15 |
 | 20 | `.gitattributes` | 10 |
-| 21 | `.ico` | 9 |
-| 22 | `.ps1` | 9 |
-| 23 | `.csproj` | 9 |
-| 24 | `.spec` | 8 |
-| 25 | `.cjs` | 7 |
+| 21 | `.cjs` | 10 |
+| 22 | `.ico` | 9 |
+| 23 | `.ps1` | 9 |
+| 24 | `.csproj` | 9 |
+| 25 | `.spec` | 8 |
 | 26 | `.mp3` | 7 |
 | 27 | `.woff2` | 6 |
 | 28 | `.yaml` | 6 |
