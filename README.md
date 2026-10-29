@@ -1,11 +1,11 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/YaoVPN"><img alt="YaoVPN" src="https://img.shields.io/static/v1?label=YaoVPN&message=Updated+2026-10-27&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/YaoVPN"><img alt="YaoVPN" src="https://img.shields.io/static/v1?label=YaoVPN&message=Updated+2026-10-29&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-28&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-10-25&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/PromptMaker"><img alt="PromptMaker" src="https://img.shields.io/static/v1?label=PromptMaker&message=Updated+2026-10-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/skills"><img alt="skills" src="https://img.shields.io/static/v1?label=skills&message=Updated+2026-10-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-10-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-10-23&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/blogu"><img alt="blogu" src="https://img.shields.io/static/v1?label=blogu&message=Updated+2026-10-19&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-10-17&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,18 +20,18 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-10-27 23:45 UTC**
+> Last refreshed automatically: **2026-10-29 23:55 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 8819041
+    "JavaScript" : 8836994
     "Python" : 2929622
-    "HTML" : 1298571
-    "C#" : 957283
-    "CSS" : 727275
+    "HTML" : 1298056
+    "C#" : 1003307
+    "CSS" : 727573
     "TypeScript" : 100150
     "PLpgSQL" : 99830
     "PowerShell" : 93535
@@ -44,11 +44,11 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 8,819,041 | 58.4% |
-| Python | 2,929,622 | 19.4% |
-| HTML | 1,298,571 | 8.6% |
-| C# | 957,283 | 6.3% |
-| CSS | 727,275 | 4.8% |
+| JavaScript | 8,836,994 | 58.3% |
+| Python | 2,929,622 | 19.3% |
+| HTML | 1,298,056 | 8.6% |
+| C# | 1,003,307 | 6.6% |
+| CSS | 727,573 | 4.8% |
 | TypeScript | 100,150 | 0.7% |
 | PLpgSQL | 99,830 | 0.7% |
 | PowerShell | 93,535 | 0.6% |
@@ -65,11 +65,11 @@ pie showData
     ".m4a" : 6061
     ".png" : 568
     ".webp" : 467
-    ".js" : 283
+    ".js" : 288
     ".py" : 175
     ".json" : 96
-    ".cs" : 87
-    ".md" : 85
+    ".cs" : 92
+    ".md" : 87
 ```
 
 <details>
@@ -80,16 +80,16 @@ pie showData
 | 1 | `.m4a` | 6,061 |
 | 2 | `.png` | 568 |
 | 3 | `.webp` | 467 |
-| 4 | `.js` | 283 |
+| 4 | `.js` | 288 |
 | 5 | `.py` | 175 |
 | 6 | `.json` | 96 |
-| 7 | `.cs` | 87 |
-| 8 | `.md` | 85 |
-| 9 | `.html` | 85 |
+| 7 | `.cs` | 92 |
+| 8 | `.md` | 87 |
+| 9 | `.html` | 86 |
 | 10 | `.svg` | 62 |
 | 11 | `.gif` | 52 |
 | 12 | `.sql` | 47 |
-| 13 | `.css` | 35 |
+| 13 | `.css` | 36 |
 | 14 | `.mjs` | 34 |
 | 15 | `.gitignore` | 27 |
 | 16 | `.txt` | 27 |
@@ -98,8 +98,8 @@ pie showData
 | 19 | `.yml` | 14 |
 | 20 | `.ps1` | 12 |
 | 21 | `.csproj` | 12 |
-| 22 | `.gitattributes` | 11 |
-| 23 | `.cjs` | 11 |
+| 22 | `.cjs` | 12 |
+| 23 | `.gitattributes` | 11 |
 | 24 | `.ico` | 10 |
 | 25 | `.spec` | 8 |
 | 26 | `.xaml` | 7 |
