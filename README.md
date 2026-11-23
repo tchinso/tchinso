@@ -1,7 +1,7 @@
 ## Recent repositories
 
 <table width="100%">
-<tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-11-15&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-11-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Saltline"><img alt="Saltline" src="https://img.shields.io/static/v1?label=Saltline&message=Updated+2026-11-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/My-3D-assets"><img alt="My-3D-assets" src="https://img.shields.io/static/v1?label=My-3D-assets&message=Updated+2026-11-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-11-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,7 +20,7 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-11-20 01:46 UTC**
+> Last refreshed automatically: **2026-11-23 00:49 UTC**
 
 ## Language ratio across my repositories
 
@@ -29,7 +29,7 @@ pie showData
     title Language ratio by bytes across public repositories
     "JavaScript" : 10741316
     "Python" : 3028968
-    "HTML" : 1311276
+    "HTML" : 1311490
     "C#" : 1003303
     "CSS" : 774204
     "PowerShell" : 107268
@@ -46,7 +46,7 @@ pie showData
 | --- | ---: | ---: |
 | JavaScript | 10,741,316 | 62.3% |
 | Python | 3,028,968 | 17.6% |
-| HTML | 1,311,276 | 7.6% |
+| HTML | 1,311,490 | 7.6% |
 | C# | 1,003,303 | 5.8% |
 | CSS | 774,204 | 4.5% |
 | PowerShell | 107,268 | 0.6% |
