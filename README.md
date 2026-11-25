@@ -1,11 +1,11 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-11-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-11-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Saltline"><img alt="Saltline" src="https://img.shields.io/static/v1?label=Saltline&message=Updated+2026-11-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/My-3D-assets"><img alt="My-3D-assets" src="https://img.shields.io/static/v1?label=My-3D-assets&message=Updated+2026-11-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/ScreenDimmer"><img alt="ScreenDimmer" src="https://img.shields.io/static/v1?label=ScreenDimmer&message=Updated+2026-11-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-11-10&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/privacy-policy"><img alt="privacy-policy" src="https://img.shields.io/static/v1?label=privacy-policy&message=Updated+2026-11-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/OpenStill"><img alt="OpenStill" src="https://img.shields.io/static/v1?label=OpenStill&message=Updated+2026-11-09&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/stash-plugins"><img alt="stash-plugins" src="https://img.shields.io/static/v1?label=stash-plugins&message=Updated+2026-11-07&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -20,19 +20,19 @@
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-11-23 00:49 UTC**
+> Last refreshed automatically: **2026-11-25 03:31 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 10741316
-    "Python" : 3028968
+    "JavaScript" : 10744452
+    "Python" : 3020204
     "HTML" : 1311490
     "C#" : 1003303
     "CSS" : 774204
-    "PowerShell" : 107268
+    "PowerShell" : 107923
     "PLpgSQL" : 107237
     "TypeScript" : 100150
     "C" : 59243
@@ -44,12 +44,12 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 10,741,316 | 62.3% |
-| Python | 3,028,968 | 17.6% |
+| JavaScript | 10,744,452 | 62.3% |
+| Python | 3,020,204 | 17.5% |
 | HTML | 1,311,490 | 7.6% |
 | C# | 1,003,303 | 5.8% |
 | CSS | 774,204 | 4.5% |
-| PowerShell | 107,268 | 0.6% |
+| PowerShell | 107,923 | 0.6% |
 | PLpgSQL | 107,237 | 0.6% |
 | TypeScript | 100,150 | 0.6% |
 | C | 59,243 | 0.3% |
@@ -66,7 +66,7 @@ pie showData
     ".png" : 570
     ".webp" : 467
     ".js" : 450
-    ".py" : 182
+    ".py" : 183
     ".md" : 100
     ".json" : 99
     ".cs" : 92
@@ -81,7 +81,7 @@ pie showData
 | 2 | `.png` | 570 |
 | 3 | `.webp` | 467 |
 | 4 | `.js` | 450 |
-| 5 | `.py` | 182 |
+| 5 | `.py` | 183 |
 | 6 | `.md` | 100 |
 | 7 | `.json` | 99 |
 | 8 | `.cs` | 92 |
@@ -89,23 +89,23 @@ pie showData
 | 10 | `.svg` | 62 |
 | 11 | `.gif` | 54 |
 | 12 | `.sql` | 49 |
-| 13 | `.mjs` | 46 |
+| 13 | `.mjs` | 47 |
 | 14 | `.css` | 44 |
-| 15 | `.gitignore` | 28 |
-| 16 | `.txt` | 28 |
+| 15 | `.txt` | 35 |
+| 16 | `.gitignore` | 28 |
 | 17 | `.glb` | 20 |
 | 18 | `.jpg` | 17 |
-| 19 | `.cjs` | 14 |
-| 20 | `.ps1` | 14 |
-| 21 | `.yml` | 13 |
-| 22 | `.gitattributes` | 13 |
+| 19 | `.ps1` | 14 |
+| 20 | `.cjs` | 14 |
+| 21 | `.gitattributes` | 13 |
+| 22 | `.yml` | 13 |
 | 23 | `.csproj` | 12 |
 | 24 | `.ico` | 10 |
 | 25 | `.spec` | 8 |
 | 26 | `.xaml` | 7 |
 | 27 | `.mp3` | 7 |
-| 28 | `.woff2` | 6 |
-| 29 | `.wasm` | 6 |
+| 28 | `.wasm` | 6 |
+| 29 | `.woff2` | 6 |
 | 30 | `.yaml` | 5 |
 
 </details>
