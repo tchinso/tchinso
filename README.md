@@ -1,6 +1,9 @@
 ## Recent repositories
 
 <table width="100%">
+<tr><td align="center"><a href="https://github.com/tchinso/agent-md"><img alt="agent-md" src="https://img.shields.io/static/v1?label=agent-md&message=Updated+2026-11-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Favorites"><img alt="Favorites" src="https://img.shields.io/static/v1?label=Favorites&message=Updated+2026-11-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-11-26&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/MekiCopy"><img alt="MekiCopy" src="https://img.shields.io/static/v1?label=MekiCopy&message=Updated+2026-11-24&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/fav"><img alt="fav" src="https://img.shields.io/static/v1?label=fav&message=Updated+2026-11-22&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/Saltline"><img alt="Saltline" src="https://img.shields.io/static/v1?label=Saltline&message=Updated+2026-11-13&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
@@ -13,27 +16,24 @@
 <tr><td align="center"><a href="https://github.com/tchinso/VidEdit"><img alt="VidEdit" src="https://img.shields.io/static/v1?label=VidEdit&message=Updated+2026-11-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/NyanKat-Tab"><img alt="NyanKat-Tab" src="https://img.shields.io/static/v1?label=NyanKat-Tab&message=Updated+2026-11-06&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 <tr><td align="center"><a href="https://github.com/tchinso/SubtitleFinder"><img alt="SubtitleFinder" src="https://img.shields.io/static/v1?label=SubtitleFinder&message=Updated+2026-11-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/h2hverify"><img alt="h2hverify" src="https://img.shields.io/static/v1?label=h2hverify&message=Updated+2026-11-03&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/Static-BBS"><img alt="Static-BBS" src="https://img.shields.io/static/v1?label=Static-BBS&message=Updated+2026-10-31&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
-<tr><td align="center"><a href="https://github.com/tchinso/YaoVPN"><img alt="YaoVPN" src="https://img.shields.io/static/v1?label=YaoVPN&message=Updated+2026-10-30&color=2ea44f&style=for-the-badge&logo=github" width="100%" /></a></td></tr>
 </table>
 
 # 냥캣 (`tchinso`) GitHub Profile
 
-> Last refreshed automatically: **2026-11-25 03:31 UTC**
+> Last refreshed automatically: **2026-11-27 02:50 UTC**
 
 ## Language ratio across my repositories
 
 ```mermaid
 pie showData
     title Language ratio by bytes across public repositories
-    "JavaScript" : 10744452
+    "JavaScript" : 10766427
     "Python" : 3020204
-    "HTML" : 1311490
+    "HTML" : 1342083
     "C#" : 1003303
-    "CSS" : 774204
+    "CSS" : 774406
+    "PLpgSQL" : 108299
     "PowerShell" : 107923
-    "PLpgSQL" : 107237
     "TypeScript" : 100150
     "C" : 59243
     "Rust" : 8282
@@ -44,13 +44,13 @@ pie showData
 
 | Language | Bytes | Ratio |
 | --- | ---: | ---: |
-| JavaScript | 10,744,452 | 62.3% |
+| JavaScript | 10,766,427 | 62.3% |
 | Python | 3,020,204 | 17.5% |
-| HTML | 1,311,490 | 7.6% |
+| HTML | 1,342,083 | 7.8% |
 | C# | 1,003,303 | 5.8% |
-| CSS | 774,204 | 4.5% |
+| CSS | 774,406 | 4.5% |
+| PLpgSQL | 108,299 | 0.6% |
 | PowerShell | 107,923 | 0.6% |
-| PLpgSQL | 107,237 | 0.6% |
 | TypeScript | 100,150 | 0.6% |
 | C | 59,243 | 0.3% |
 | Rust | 8,282 | 0.0% |
@@ -65,9 +65,9 @@ pie showData
     ".m4a" : 6061
     ".png" : 570
     ".webp" : 467
-    ".js" : 450
+    ".js" : 454
     ".py" : 183
-    ".md" : 100
+    ".md" : 101
     ".json" : 99
     ".cs" : 92
 ```
@@ -80,30 +80,30 @@ pie showData
 | 1 | `.m4a` | 6,061 |
 | 2 | `.png` | 570 |
 | 3 | `.webp` | 467 |
-| 4 | `.js` | 450 |
+| 4 | `.js` | 454 |
 | 5 | `.py` | 183 |
-| 6 | `.md` | 100 |
+| 6 | `.md` | 101 |
 | 7 | `.json` | 99 |
 | 8 | `.cs` | 92 |
-| 9 | `.html` | 89 |
+| 9 | `.html` | 90 |
 | 10 | `.svg` | 62 |
 | 11 | `.gif` | 54 |
-| 12 | `.sql` | 49 |
+| 12 | `.sql` | 50 |
 | 13 | `.mjs` | 47 |
 | 14 | `.css` | 44 |
 | 15 | `.txt` | 35 |
 | 16 | `.gitignore` | 28 |
 | 17 | `.glb` | 20 |
 | 18 | `.jpg` | 17 |
-| 19 | `.ps1` | 14 |
-| 20 | `.cjs` | 14 |
-| 21 | `.gitattributes` | 13 |
-| 22 | `.yml` | 13 |
+| 19 | `.cjs` | 14 |
+| 20 | `.ps1` | 14 |
+| 21 | `.yml` | 13 |
+| 22 | `.gitattributes` | 13 |
 | 23 | `.csproj` | 12 |
 | 24 | `.ico` | 10 |
 | 25 | `.spec` | 8 |
-| 26 | `.xaml` | 7 |
-| 27 | `.mp3` | 7 |
+| 26 | `.mp3` | 7 |
+| 27 | `.xaml` | 7 |
 | 28 | `.wasm` | 6 |
 | 29 | `.woff2` | 6 |
 | 30 | `.yaml` | 5 |
